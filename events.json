@@ -1,0 +1,6097 @@
+{
+  "generatedAt": "2026-08-08T16:30:50.744Z",
+  "eventCount": 213,
+  "events": [
+    {
+      "id": "be4849868848772743d3f0eb8f49ea5c32b2e63d2e657fc63e2f2bfc39b71dc3",
+      "title": "Code Gathering at Centreville Library",
+      "description": null,
+      "start": "2026-08-08T13:00:00-04:00",
+      "end": "2026-08-08T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Centreville Regional Library",
+        "address": "Centreville Regional Library, 14200 Saint Germain Drive, Centreville, VA, Centreville, VA",
+        "lat": 38.8374603,
+        "lng": -77.4408576,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/codegathering/events/315904276/",
+      "organizer": "Code Gathering",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/codegathering/events/315904276/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "5a4199f6def4a2142f0666bd7a62dd9e21ce9cdb28f859037ee0eaa3ef46eb7c",
+      "title": "\"Am I?\" Film Screening & Discussion",
+      "description": null,
+      "start": "2026-08-08T13:00:00-04:00",
+      "end": "2026-08-08T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Arlington Central Library",
+        "address": "Arlington Central Library, 1015 N Quincy St, Arlington, VA, Arlington, VA",
+        "lat": 38.8837874,
+        "lng": -77.1071838,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/dc-digital-minds/events/315504467/",
+      "organizer": "The DC Digital Minds Meetup",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/dc-digital-minds/events/315504467/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "1a9c4ae97cfefd9aaa2ac2a83ab20517a25e5448bdf2a4887cfeb9c6f769a5da",
+      "title": "Build with Claude 101: From Idea to Working Prototype (No coding experience needed)",
+      "description": null,
+      "start": "2026-08-08T15:00:00-04:00",
+      "end": "2026-08-08T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "West End Neighborhood Library",
+        "address": "West End Neighborhood Library, 2301 L St NW, Washington, DC 20037, USA",
+        "lat": 38.9039046,
+        "lng": -77.0509621,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://luma.com/ai-iolu",
+      "organizer": "AI Discussion Club",
+      "categories": [
+        "ai",
+        "design"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/ai-iolu"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "22caca209f5af67047a6cf97e9c7db58b02c1f2879c4706d9301ad244371546c",
+      "title": "DC Code & Coffee - West End Neighborhood Library",
+      "description": null,
+      "start": "2026-08-09T13:30:00-04:00",
+      "end": "2026-08-09T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "West End Neighborhood Library",
+        "address": "West End Neighborhood Library, 2301 L St NW, Washington, DC, Washington, DC",
+        "lat": 38.9039046,
+        "lng": -77.0509621,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/dc-code-coffee/events/315952993/",
+      "organizer": "DC Code & Coffee",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/dc-code-coffee/events/315952993/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "e88b60d13454e29cb422dc1612df97635d2e851de4a892d31ea7b246151e9860",
+      "title": "NoVA Hackers August Meeting",
+      "description": null,
+      "start": "2026-08-10T18:30:00-04:00",
+      "end": "2026-08-10T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Reston Community Center",
+        "address": "Reston Community Center, 2310 Colts Neck Rd, Reston, VA, Reston, VA",
+        "lat": 38.9365249,
+        "lng": -77.3604912,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/nova-hackers/events/315675350/",
+      "organizer": "NoVA Hackers",
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/nova-hackers/events/315675350/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "8ef8d577908b653d8b83fdb94cf6f6f00a5d167c7bc5f70dafc743c505aed3e0",
+      "title": "Open Conversations: February Edition",
+      "description": null,
+      "start": "2026-08-10T19:00:00-04:00",
+      "end": "2026-08-10T23:59:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": false,
+      "url": "https://www.meetup.com/blacks-united-in-leading-technology-washington-d-c/events/314181504/",
+      "organizer": "Blacks United in Leading Technology Washington DC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/blacks-united-in-leading-technology-washington-d-c/events/314181504/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "3e6cef48a13444b892e86505b0288c8d5c9fab134399d8959c1dfb8a79c44ebc",
+      "title": "Open Hac",
+      "description": null,
+      "start": "2026-08-10T19:00:00-04:00",
+      "end": "2026-08-10T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "HacDC",
+        "address": "HacDC, 3333 14th St NW, Suite M110, Washington, DC, Washington, DC",
+        "lat": 38.9308396,
+        "lng": -77.0325456,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/hac-dc/events/315781742/",
+      "organizer": "HacDC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/hac-dc/events/315781742/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "7f40c713bf897a0eb9c1129b86ce6923ff05e5e9505dbe60ed66d34ed483733a",
+      "title": "AFCEA Hampton Roads Chapter August Luncheon",
+      "description": null,
+      "start": "2026-08-10T20:00:00-04:00",
+      "end": "2026-08-10T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "VA",
+        "address": "VA",
+        "lat": 38.9007688,
+        "lng": -77.03521,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://hamptonroads.afceachapters.org/node/233",
+      "organizer": "AFCEA",
+      "categories": [
+        "security",
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://hamptonroads.afceachapters.org/node/233"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "67d8cb7032389a721dbfc2a465eec5eddf50791edf981458e4f18284e852200c",
+      "title": "Community Tuesdays at Refraction",
+      "description": "Cost: Free",
+      "start": "2026-08-11T09:00:00-04:00",
+      "end": "2026-08-11T10:00:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": null,
+        "address": "7950 Jones Branch Drive, 8th Floor North, McLean, VA 22102",
+        "lat": 38.9366852,
+        "lng": -77.185843,
+        "precision": "city-centroid"
+      },
+      "online": false,
+      "url": "https://refraction.zoholandingpage.com/communitytues/",
+      "organizer": null,
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://refraction.zoholandingpage.com/communitytues/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "51a5724fb090510ea414d6da5b451e2511b04527a52cddbcf92c049eb2222d7a",
+      "title": "2026: TEDxLogan Circle",
+      "description": null,
+      "start": "2026-08-11T12:00:00-04:00",
+      "end": "2026-08-11T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "National Housing Center",
+        "address": "National Housing Center, 1201 15th St NW, Washington, DC 20005, USA",
+        "lat": 38.9058675,
+        "lng": -77.0342368,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://luma.com/l7ofp3mw",
+      "organizer": "TEDx Logan Circle",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/l7ofp3mw"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "770709a4b852895a217789348eef0cbc93482823de8e014746ece2904c9c9c44",
+      "title": "How to Find the First Customers for Your Startup Idea1",
+      "description": null,
+      "start": "2026-08-11T12:00:00-04:00",
+      "end": "2026-08-11T23:59:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": false,
+      "url": "https://www.meetup.com/dc-startup-founder-101/events/315806339/",
+      "organizer": "DC Startup Founder 101",
+      "categories": [
+        "startups"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/dc-startup-founder-101/events/315806339/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "486467b5d1007e41ae56bb948ba13616a758553dc7d5daa9619a695c409b553b",
+      "title": "Download Complete: Black Hat 2026",
+      "description": null,
+      "start": "2026-08-11T17:30:00-04:00",
+      "end": "2026-08-11T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Honor Brewing Company - Loudoun",
+        "address": "Honor Brewing Company - Loudoun, 42604 Trade West Drive ,, Sterling, VA, Sterling, VA",
+        "lat": 39.003685,
+        "lng": -77.4083096,
+        "precision": "city-centroid"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/loudoun-cybertech/events/315918649/",
+      "organizer": "Loudoun CyberTech",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/loudoun-cybertech/events/315918649/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "0717a89978d21660f137a232b0fd360d5327914298088c20c9432d58dc5760d8",
+      "title": "Assistive Access: Reinventing Your App for New (sort of) Generation",
+      "description": null,
+      "start": "2026-08-11T18:00:00-04:00",
+      "end": "2026-08-11T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": null,
+        "address": "1680 Capital One Dr, 1680 Capital One Dr, McLean, VA, McLean, VA",
+        "lat": 38.9242279,
+        "lng": -77.2134433,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/dc-ios/events/315969693/",
+      "organizer": "DC iOS",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/dc-ios/events/315969693/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "6a0ab592ecacd84bb9e64497d56a9e5e57d925f23e11e604425dcdf93880bd93",
+      "title": "⚡️ Even More Side Projects! DSDC Meetup",
+      "description": "2112 Pennsylvania Ave NW\nWashington, District of Columbia\nUnited States",
+      "start": "2026-08-11T18:00:00-04:00",
+      "end": "2026-08-11T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": null,
+        "address": "2112 Pennsylvania Ave NW, Washington, DC 20037, USA",
+        "lat": 38.9014337,
+        "lng": -77.04790109999999,
+        "precision": "exact"
+      },
+      "online": false,
+      "url": "https://luma.com/tiwv09il",
+      "organizer": "DC Data & AI Events",
+      "categories": [
+        "ai",
+        "data"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/tiwv09il"
+        },
+        {
+          "id": "dc-data-ai",
+          "url": "https://luma.com/tiwv09il"
+        },
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/data-science-dc/events/315738132/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "fdb62529bff09e73bd215d769c305952a793318166f1a82b04402d25244a8e33",
+      "title": "Mappy Hour",
+      "description": null,
+      "start": "2026-08-11T18:00:00-04:00",
+      "end": "2026-08-11T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Capitol City Brewing Company",
+        "address": "Capitol City Brewing Company, 1100 New York Ave NW, Entrance is at 11th and H, Washington, DC, Washington, DC",
+        "lat": 38.8950982,
+        "lng": -77.0363849,
+        "precision": "city-centroid"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/mappingdc/events/315358681/",
+      "organizer": "MappingDC",
+      "categories": [
+        "data"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/mappingdc/events/315358681/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "774b37218e301082ce3b5ce12898e57e28b37daae7963020ee759c1e0d3df043",
+      "title": "Search Is a Content Problem",
+      "description": null,
+      "start": "2026-08-11T18:00:00-04:00",
+      "end": "2026-08-11T23:59:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": false,
+      "url": "https://www.meetup.com/content-strategy-dc/events/315585436/",
+      "organizer": "Content Strategy DC",
+      "categories": [
+        "design"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/content-strategy-dc/events/315585436/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "508dc8da34e022bceaab6d8672a65edd74433f8b5c8bf6c31dff6ba6d02e22b3",
+      "title": "Indie Game Dev Night (DC - MLK Library, Room: 401-A)",
+      "description": null,
+      "start": "2026-08-11T18:30:00-04:00",
+      "end": "2026-08-11T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Martin Luther King Jr. Memorial Library",
+        "address": "Martin Luther King Jr. Memorial Library, 901 G St NW, Washington, DC, Washington, DC",
+        "lat": 38.8986914,
+        "lng": -77.0247662,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/igda-dc/events/315452854/",
+      "organizer": "IGDA DC",
+      "categories": [
+        "data"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/igda-dc/events/315452854/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "79cebc50952fe002501e21a1c64053e6eed2edf3cc8f271028ae5e9c87eb69e9",
+      "title": "Emerging Leaders Monthly Social",
+      "description": null,
+      "start": "2026-08-11T20:00:00-04:00",
+      "end": "2026-08-11T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Columbia Ale House - 6480 Dobbin Center Way",
+        "address": "Columbia Ale House - 6480 Dobbin Center Way, Columbia, MD",
+        "lat": 39.1984693,
+        "lng": -76.8198927,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=81812",
+      "organizer": "AFCEA",
+      "categories": [
+        "security",
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=81812"
+        }
+      ],
+      "metro": "baltimore",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "b0671918e2e0608c1a13caeebc9c1daaf79cb18307dac8da7f3f41a306d292f5",
+      "title": "Prototype: DC Product & Engineering Meetup",
+      "description": "STATION DC\nWashington, DC\nUnited States",
+      "start": "2026-08-12T09:00:00-04:00",
+      "end": "2026-08-12T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "STATION DC",
+        "address": "STATION DC, 1323 4th St NE Ste 200, Washington, DC 20002, USA",
+        "lat": 38.909549,
+        "lng": -76.9984619,
+        "precision": "exact"
+      },
+      "online": false,
+      "url": "https://luma.com/stationdc-8szm",
+      "organizer": "STATION DC",
+      "categories": [
+        "design",
+        "data"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/stationdc-8szm"
+        },
+        {
+          "id": "station-dc",
+          "url": "https://luma.com/stationdc-8szm"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "f9373c3186a639104682ed8465213d08c966ca27d89d9905598662e37f5a9c6f",
+      "title": "August 2026 GeoDC : INTERNS",
+      "description": null,
+      "start": "2026-08-12T18:00:00-04:00",
+      "end": "2026-08-12T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Sudhouse DC",
+        "address": "Sudhouse DC, 1340 U St NW, Washington, DC, Washington, DC",
+        "lat": 38.9168579,
+        "lng": -77.0311816,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/geo-dc/events/314884716/",
+      "organizer": "Geo DC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/geo-dc/events/314884716/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "1034e7bcac2cc818046dfe416e82c3e695b2b8c08eac397bef65802b68184cec",
+      "title": "Civic Tech DC Project Night",
+      "description": null,
+      "start": "2026-08-12T18:00:00-04:00",
+      "end": "2026-08-12T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": null,
+        "address": "2112 Pennsylvania Ave NW, Washington, DC 20037, USA",
+        "lat": 38.9014628,
+        "lng": -77.0480082,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://luma.com/0v7f5gvo",
+      "organizer": "Civic Tech DC",
+      "categories": [
+        "data"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/0v7f5gvo"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "a194e5671312691ebc880a18ad041bff001e17942877457c4433acaf5fd88250",
+      "title": "EL Ambassador Program Open House",
+      "description": null,
+      "start": "2026-08-12T20:00:00-04:00",
+      "end": "2026-08-12T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Chiron - 7021 Columbia Gateway Dr. (1st Floor Conference Room)",
+        "address": "Chiron - 7021 Columbia Gateway Dr. (1st Floor Conference Room), Columbia, MD",
+        "lat": 39.1938429,
+        "lng": -76.8646092,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://afceacentralmd.swoogo.com/EL_Ambassador_Program_Open_House_2026",
+      "organizer": "AFCEA",
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://afceacentralmd.swoogo.com/EL_Ambassador_Program_Open_House_2026"
+        }
+      ],
+      "metro": "baltimore",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "69fa72b44b498a55d367dbc424cc67981aa255bfcb7d7d413514a78264fb27ec",
+      "title": "THE REFRACTION AI EXCHANGE",
+      "description": "Cost: Free",
+      "start": "2026-08-13T00:00:00-04:00",
+      "end": null,
+      "allDay": true,
+      "venue": {
+        "name": null,
+        "address": "7950 Jones Branch Drive, 8th Floor North ​McLean, VA 22102",
+        "lat": 38.9366852,
+        "lng": -77.185843,
+        "precision": "city-centroid"
+      },
+      "online": false,
+      "url": "https://refraction.zoholandingpage.com/aiexchange/",
+      "organizer": null,
+      "categories": [
+        "ai"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://refraction.zoholandingpage.com/aiexchange/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "6c4fe1037baa56e4d3204464d71f3b72a5dde54bf457bb3052d8c5c234a941af",
+      "title": "VA Universities Career Fair",
+      "description": null,
+      "start": "2026-08-13T16:00:00-04:00",
+      "end": "2026-08-13T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "UVA Northern Virginia",
+        "address": "UVA Northern Virginia, 8095 Innovation Park Dr., Fairfax, VA, 22031, United States",
+        "lat": 38.8610561,
+        "lng": -77.2235978,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://career.virginia.edu/events/2026/08/13/va-universities-career-fair-uva-fairfax-campus/",
+      "organizer": "Northern Virginia Technology Council",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://career.virginia.edu/events/2026/08/13/va-universities-career-fair-uva-fairfax-campus/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "c2b6fad9883aa0ae1f9a8708a7018e5ee6e365821a63e113f24f0dfd377e8e81",
+      "title": "Analyzing your LinkedIn data with AI agents workshop",
+      "description": null,
+      "start": "2026-08-13T17:00:00-04:00",
+      "end": "2026-08-13T23:59:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": true,
+      "url": "https://luma.com/x7783het",
+      "organizer": "Learning Journey AI",
+      "categories": [
+        "ai",
+        "data"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/x7783het"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "7ec377d9aa19bcd9ec4d5f96e9883303e8b0f15ee9f3f168c78bd615256d5ecf",
+      "title": "STATION DC Blazer Retirement Ceremony",
+      "description": "STATION DC\nWashington, DC\nUnited States",
+      "start": "2026-08-13T17:00:00-04:00",
+      "end": "2026-08-13T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "STATION DC",
+        "address": "STATION DC, 1323 4th St NE Ste 200, Washington, DC 20002, USA",
+        "lat": 38.909549,
+        "lng": -76.9984619,
+        "precision": "exact"
+      },
+      "online": false,
+      "url": "https://luma.com/stationdc-k9np",
+      "organizer": "STATION DC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/stationdc-k9np"
+        },
+        {
+          "id": "station-dc",
+          "url": "https://luma.com/stationdc-k9np"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "376b3d1bd6f8075e5d9aa8cc5fba86bedd13f3eb3cd4bafdaf4471e28dab24eb",
+      "title": "Copilot Would Like to Speak to You About Your Model",
+      "description": null,
+      "start": "2026-08-13T17:30:00-04:00",
+      "end": "2026-08-13T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Prefect",
+        "address": "Prefect, 2112 Pennsylvania Ave NW, 2nd Floor, DC, DC, DC, DC",
+        "lat": 38.9014628,
+        "lng": -77.0480082,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/power-bi-dc/events/315706801/",
+      "organizer": "Power BI DC",
+      "categories": [
+        "ai"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/power-bi-dc/events/315706801/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "836e34515dd85dff69b17568980ae9e48bcba71f72164b2cb4cbf6b77dd4816a",
+      "title": "Hardware Hacking Night",
+      "description": null,
+      "start": "2026-08-13T19:00:00-04:00",
+      "end": "2026-08-13T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "HacDC",
+        "address": "HacDC, 3333 14th St NW, Suite M110, Washington, DC, Washington, DC",
+        "lat": 38.9308396,
+        "lng": -77.0325456,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/hac-dc/events/314692761/",
+      "organizer": "HacDC",
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/hac-dc/events/314692761/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "80e3bb4a9aef58e0f5c2119f335cbe7c266c19f3465fdda2fa4b8702c5b18b8d",
+      "title": "Power Breakfast: Beyond the Platform: Inside the Army and Navy's Expanding Unmanned Systems Market",
+      "description": null,
+      "start": "2026-08-14T06:30:00-04:00",
+      "end": "2026-08-14T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Carahsoft Conference & Collaboration Center",
+        "address": "Carahsoft Conference & Collaboration Center, 11493 Sunset Hills Road, Reston, VA 20190",
+        "lat": 38.9504142,
+        "lng": -77.344387,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://events.govexec.com/wt-power-breakfast-beyond-the-platform/",
+      "organizer": "Washington Technology Events",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://events.govexec.com/wt-power-breakfast-beyond-the-platform/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "c2b118a2523a2c327cc2c469a4ceba7e5a71da577e934d3bb59cbbe88b907748",
+      "title": "Proxmox - Monthly Meeting",
+      "description": null,
+      "start": "2026-08-15T10:00:00-04:00",
+      "end": "2026-08-15T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Mary Riley Styles Public Library 120 North Virginia Avenue 22046 Falls Church Virginia United States",
+        "address": "Mary Riley Styles Public Library 120 North Virginia Avenue 22046 Falls Church Virginia United States",
+        "lat": 38.8858606,
+        "lng": -77.1746367,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://mobilizon.us/events/5e02b3e3-29c2-41e9-ad21-59c14bebc740",
+      "organizer": "Northern Virginia Linux Users Group (NoVaLUG)",
+      "categories": [
+        "data"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://mobilizon.us/events/5e02b3e3-29c2-41e9-ad21-59c14bebc740"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "f5b939cc2fbaf31006fb324feec5883b243c8e52cb46947a60b0648fee9be443",
+      "title": "Game Development Working Session (DC - MLK Library, Room: 401-G)",
+      "description": null,
+      "start": "2026-08-15T14:00:00-04:00",
+      "end": "2026-08-15T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Martin Luther King Jr. Memorial Library",
+        "address": "Martin Luther King Jr. Memorial Library, 901 G St NW, Washington, DC, Washington, DC",
+        "lat": 38.8986914,
+        "lng": -77.0247662,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/igda-dc/events/315453845/",
+      "organizer": "IGDA DC",
+      "categories": [
+        "data"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/igda-dc/events/315453845/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "171f6d54a7e42678155268f26b72bf2b1c5f6fea6f3c4ef6d6ca2a27cbbd3028",
+      "title": "ATIHx DC: Responsible Tech Happy Hour",
+      "description": null,
+      "start": "2026-08-17T18:00:00-04:00",
+      "end": "2026-08-17T19:00:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Teaism Penn Quarter",
+        "address": "Teaism Penn Quarter, 400 8th St NW, Washington, DC 20004",
+        "lat": 38.8949554,
+        "lng": -77.0231696,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://luma.com/ubp5408a",
+      "organizer": null,
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/ubp5408a"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "3806722470d2f1bb4536cd2705d4dc3bb89baf6c45ef7e8f5a99d3790f4edbf3",
+      "title": "Drones Saving Lives: DARPA Med Triage Team Kickoff & Drone Show and Tell!",
+      "description": null,
+      "start": "2026-08-17T18:00:00-04:00",
+      "end": "2026-08-17T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Central Arlington Library",
+        "address": "Central Arlington Library, 1015 North Quincy Street, Arlington, VA, Arlington, VA",
+        "lat": 38.8837874,
+        "lng": -77.1071838,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/dc-area-drone-user-group/events/315965239/",
+      "organizer": "DC Area Drone User Group",
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/dc-area-drone-user-group/events/315965239/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "ef525cb119957cfe9a0833cd416074e94ef4941a4e59b5d0cf8c2dd95ce5230c",
+      "title": "Open Hac",
+      "description": null,
+      "start": "2026-08-17T19:00:00-04:00",
+      "end": "2026-08-17T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "HacDC",
+        "address": "HacDC, 3333 14th St NW, Suite M110, Washington, DC, Washington, DC",
+        "lat": 38.9308396,
+        "lng": -77.0325456,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/hac-dc/events/315881603/",
+      "organizer": "HacDC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/hac-dc/events/315881603/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "bd3e86ccce7b4985a003bb571b0df7a40eddca3566714771168f47792250a838",
+      "title": "Community Tuesdays at Refraction",
+      "description": "Cost: Free",
+      "start": "2026-08-18T09:00:00-04:00",
+      "end": "2026-08-18T10:00:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": null,
+        "address": "7950 Jones Branch Drive, 8th Floor North, McLean, VA 22102",
+        "lat": 38.9366852,
+        "lng": -77.185843,
+        "precision": "city-centroid"
+      },
+      "online": false,
+      "url": "https://refraction.zoholandingpage.com/communitytues/",
+      "organizer": null,
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://refraction.zoholandingpage.com/communitytues/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "cbfea37bf8c5cc63baa80089be579fe6d6d2d37b14104dd1c9c80983276c4b5a",
+      "title": "STATION DC Built World Open Roundtable",
+      "description": "STATION DC\nWashington, District of Columbia\nUnited States",
+      "start": "2026-08-18T10:00:00-04:00",
+      "end": "2026-08-18T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "STATION DC",
+        "address": "STATION DC, 1323 4th St NE Suite 200, Washington, DC 20002, USA",
+        "lat": 38.909549,
+        "lng": -76.9984619,
+        "precision": "exact"
+      },
+      "online": false,
+      "url": "https://luma.com/icjzx9mp",
+      "organizer": "STATION DC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/icjzx9mp"
+        },
+        {
+          "id": "station-dc",
+          "url": "https://luma.com/icjzx9mp"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "8e1fa8399de79181d3b72812a3236603ec656f353b339e34ff617b5ad63e6579",
+      "title": "How to Get Customer Feeback on your Startup Idea in the Age of AI",
+      "description": null,
+      "start": "2026-08-18T12:00:00-04:00",
+      "end": "2026-08-18T23:59:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": false,
+      "url": "https://www.meetup.com/dc-startup-founder-101/events/315857509/",
+      "organizer": "DC Startup Founder 101",
+      "categories": [
+        "startups",
+        "ai"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/dc-startup-founder-101/events/315857509/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "097804051a8c0bfa53af60361f3f3a680a4b0b6d963f0a5ea95c27a711061a60",
+      "title": "What Makes a Good Host: The Art and Science of Choosing a Website Platform in an AI Future",
+      "description": "Spark Coworking - Baltimore",
+      "start": "2026-08-18T17:30:00-04:00",
+      "end": "2026-08-18T19:00:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Spark Coworking - Baltimore",
+        "address": "Spark Coworking - Baltimore",
+        "lat": 39.2904,
+        "lng": -76.6122,
+        "precision": "city-centroid"
+      },
+      "online": false,
+      "url": "https://luma.com/561x0ixy",
+      "organizer": "Baltimore Tech Meetup",
+      "categories": [
+        "ai"
+      ],
+      "sources": [
+        {
+          "id": "baltimore-tech-luma",
+          "url": "https://luma.com/561x0ixy"
+        }
+      ],
+      "metro": "baltimore",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "e7f386fc463277d20a5fdbd5b12a2ca6e4fa9b3767accd22970daf123bb0eb7b",
+      "title": "Tech Talk: What Makes a Good Host",
+      "description": "Baltimore Tech\nTech Talk:\n**What Makes a Good Host: The Art and Science of Choosing a Website Platform in an AI Future**\nWe are bringing back our tech talks. This next session with be with Kate Kight\n**Who is Kate:**\nKate is a creative technologist who believes in the power of design to solve problems and bring people together. From national brand identities to customized CRMs for local nonprofits, Kate creates scalable solutions designed to look good and do good.\n**What to expect:**\nA few year…",
+      "start": "2026-08-18T17:30:00-04:00",
+      "end": "2026-08-18T19:30:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": false,
+      "url": "https://www.meetup.com/baltimore-tech/events/315707866/",
+      "organizer": null,
+      "categories": [
+        "design",
+        "ai"
+      ],
+      "sources": [
+        {
+          "id": "baltimore-tech-meetup",
+          "url": "https://www.meetup.com/baltimore-tech/events/315707866/"
+        }
+      ],
+      "metro": "baltimore",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "79b30a52e82c931b1a766c415f1245d56b7469ae8476f423c7495c48ce454347",
+      "title": "CTO Breakfast - Aug Meeting",
+      "description": null,
+      "start": "2026-08-19T07:30:00-04:00",
+      "end": "2026-08-19T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Lakewood Country Club",
+        "address": "Lakewood Country Club, 13901 Glen Mill Rd, Rockville, MD, Rockville, MD",
+        "lat": 39.085129,
+        "lng": -77.197183,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/cto-club-of-maryland/events/316020720/",
+      "organizer": "CTO Club of Maryland",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/cto-club-of-maryland/events/316020720/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "fe2e5e9e824a77a00c1a2db0a8a0bf62eea45f81ac71f79050569f960db0a7be",
+      "title": "Open by Design: Open-source Infrastructure, AI and Community :: Crystal City, VA",
+      "description": null,
+      "start": "2026-08-19T18:00:00-04:00",
+      "end": "2026-08-19T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "AWS Skills Center (Crystal City)",
+        "address": "AWS Skills Center (Crystal City), 1550 Crystal Drive, Suite G, Arlington, VA, Arlington, VA",
+        "lat": 38.8596925,
+        "lng": -77.0497499,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/ai-innovators-network-tysons-meetup-dc-nova-md/events/315599020/",
+      "organizer": "AI Innovators Network",
+      "categories": [
+        "ai",
+        "design"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/ai-innovators-network-tysons-meetup-dc-nova-md/events/315599020/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "b48b2ba436e2cbd7996ab83721cd140cc8e0def4f2c918e6f52e7e737c133dc1",
+      "title": "🧶 Craft-n-Crush Your Coding Interview 🖥️ {BYO Craft Supplies}",
+      "description": null,
+      "start": "2026-08-19T18:30:00-04:00",
+      "end": "2026-08-19T23:59:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": false,
+      "url": "https://www.meetup.com/women-and-gender-expansive-coders-dc-wgxc-dc/events/315987850/",
+      "organizer": "Women and Gender eXpansive Coders DC - WGXC DC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/women-and-gender-expansive-coders-dc-wgxc-dc/events/315987850/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "f925139654e1393e257f410410d5f6b412921c0d79dbd378d2af0964e7c2331c",
+      "title": "Nerd Talk",
+      "description": null,
+      "start": "2026-08-19T18:30:00-04:00",
+      "end": "2026-08-19T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Tysons Corner Center",
+        "address": "Tysons Corner Center, 1961 Chain Bridge Rd Ste 105, Mc Lean, VA, Mc Lean, VA",
+        "lat": 38.9167177,
+        "lng": -77.22258,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/nerd-dinner-tysons/events/315769341/",
+      "organizer": "Nerd Dinner Tysons",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/nerd-dinner-tysons/events/315769341/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "de401ebbc181519745e13ab5f92b8e63b05382d39a8502b4ae2a695ec5e8bd04",
+      "title": "Golang Reston Monthly Meetup",
+      "description": null,
+      "start": "2026-08-19T19:00:00-04:00",
+      "end": "2026-08-19T23:59:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": false,
+      "url": "https://www.meetup.com/golang-reston/events/314847820/",
+      "organizer": "Golang Reston",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/golang-reston/events/314847820/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "86c9ab982844b111c2652509debd9817d9163c65b5cc85282977ba5923e45f0f",
+      "title": "[BREAKFAST] AUGUST - VC in DC's Third Thursdays",
+      "description": null,
+      "start": "2026-08-20T09:00:00-04:00",
+      "end": "2026-08-20T23:59:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": true,
+      "url": "https://luma.com/VCDC-TT-AUG26",
+      "organizer": "VC in DC",
+      "categories": [
+        "startups"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/VCDC-TT-AUG26"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "4398691e241c64a8754a831610decfda279ef0f92a14bc9baa55ed98e10d6928",
+      "title": "Data Viz Lightning talks",
+      "description": "2112 Pennsylvania Ave NW\nEnter, check in with security, and take elevator to 2nd floor\nWashington, DC\nUnited States",
+      "start": "2026-08-20T17:30:00-04:00",
+      "end": "2026-08-20T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": null,
+        "address": "2112 Pennsylvania Ave NW, Washington, DC 20037, USA",
+        "lat": 38.9014337,
+        "lng": -77.04790109999999,
+        "precision": "exact"
+      },
+      "online": false,
+      "url": "https://luma.com/dc2-npbw",
+      "organizer": "DC Data & AI Events",
+      "categories": [
+        "data",
+        "ai"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/dc2-npbw"
+        },
+        {
+          "id": "dc-data-ai",
+          "url": "https://luma.com/dc2-npbw"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "1c3201733cdebeac33f98fe40ed4d0bd053596a26b7de0ab310e33c824e835ee",
+      "title": "Hardware Hacking Night",
+      "description": null,
+      "start": "2026-08-20T19:00:00-04:00",
+      "end": "2026-08-20T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "HacDC",
+        "address": "HacDC, 3333 14th St NW, Suite M110, Washington, DC, Washington, DC",
+        "lat": 38.9308396,
+        "lng": -77.0325456,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/hac-dc/events/314692762/",
+      "organizer": "HacDC",
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/hac-dc/events/314692762/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "d1ab7215956e95682d3c79c1a36c6d748d9d2ca725b1de2108a540731458ea4d",
+      "title": "First Watch Live — August 22, 2026",
+      "description": null,
+      "start": "2026-08-22T10:00:00-04:00",
+      "end": "2026-08-22T23:59:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": false,
+      "url": "https://www.meetup.com/cover6community/events/315109112/",
+      "organizer": "Cover 6 Community",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/cover6community/events/315109112/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "adb090dee9de1b3c046488fad458fbe8f874c305ce5dc0235f6261da5bff904a",
+      "title": "MoCo Code & Coffee August",
+      "description": null,
+      "start": "2026-08-23T14:00:00-04:00",
+      "end": "2026-08-23T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Bethesda Green",
+        "address": "Bethesda Green, 4825 Cordell Ave. Suite 200, Bethesda, MD, Bethesda, MD",
+        "lat": 38.9909705,
+        "lng": -77.0968775,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/mocode-coffee/events/314970303/",
+      "organizer": "MoCo Code and Coffee",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/mocode-coffee/events/314970303/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "86f35bfe1e7f9eecd358d2293df1cecc665e2ebb9660782756d00744ad26ee1c",
+      "title": "Open Hac",
+      "description": null,
+      "start": "2026-08-24T19:00:00-04:00",
+      "end": "2026-08-24T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "HacDC",
+        "address": "HacDC, 3333 14th St NW, Suite M110, Washington, DC, Washington, DC",
+        "lat": 38.9308396,
+        "lng": -77.0325456,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/hac-dc/events/315980990/",
+      "organizer": "HacDC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/hac-dc/events/315980990/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "899bd41ce7334b745de6ea1cd090def89f6aa7988e9d6234db60aa060360f59d",
+      "title": "NVTC Starting Point Session 1: From Launch to Legacy: Inside the Startup Journey",
+      "description": null,
+      "start": "2026-08-25T08:30:00-04:00",
+      "end": "2026-08-25T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "KPMG Tysons",
+        "address": "KPMG Tysons, 8350 Broad Street, 6th Floor, McLean, VA, United States",
+        "lat": 38.9366852,
+        "lng": -77.185843,
+        "precision": "city-centroid"
+      },
+      "online": false,
+      "url": "https://www.nvtc.org/event/nvtc-starting-point-session-1-from-launch-to-legacy-inside-the-startup-journey/",
+      "organizer": "Northern Virginia Technology Council",
+      "categories": [
+        "startups"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.nvtc.org/event/nvtc-starting-point-session-1-from-launch-to-legacy-inside-the-startup-journey/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "a67071af40ef74b6c567301b096a01fa2ac4c068aad7c169f3426d18e6d45713",
+      "title": "Community Tuesdays at Refraction",
+      "description": "Cost: Free",
+      "start": "2026-08-25T09:00:00-04:00",
+      "end": "2026-08-25T10:00:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": null,
+        "address": "7950 Jones Branch Drive, 8th Floor North, McLean, VA 22102",
+        "lat": 38.9366852,
+        "lng": -77.185843,
+        "precision": "city-centroid"
+      },
+      "online": false,
+      "url": "https://refraction.zoholandingpage.com/communitytues/",
+      "organizer": null,
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://refraction.zoholandingpage.com/communitytues/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "fd47d723f54c9dc7a8b470ef485fee6baa4a5bc1993bdff602b2aa87abea5168",
+      "title": "STATION DC Additive Manufacturing Open Roundtable",
+      "description": "STATION DC\nWashington, District of Columbia\nUnited States",
+      "start": "2026-08-25T10:00:00-04:00",
+      "end": "2026-08-25T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "STATION DC",
+        "address": "STATION DC, 1323 4th St NE Suite 200, Washington, DC 20002, USA",
+        "lat": 38.909549,
+        "lng": -76.9984619,
+        "precision": "exact"
+      },
+      "online": false,
+      "url": "https://luma.com/1lh0y4yl",
+      "organizer": "STATION DC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/1lh0y4yl"
+        },
+        {
+          "id": "station-dc",
+          "url": "https://luma.com/1lh0y4yl"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "c5f5a312e84c72731dce21b9902881a1cd65eca8cbca38ae28b5d947b3b40d19",
+      "title": "Defense Tech DC 018",
+      "description": null,
+      "start": "2026-08-25T17:30:00-04:00",
+      "end": "2026-08-25T23:59:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": true,
+      "url": "https://luma.com/dtdc018",
+      "organizer": "Defense Tech DC",
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/dtdc018"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "0f07e25e1bd557f8152533c4967adae796df77487ac1f54642a61f45048500b3",
+      "title": "The Meta Project: Designing for DT:DC",
+      "description": null,
+      "start": "2026-08-25T18:30:00-04:00",
+      "end": "2026-08-25T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": null,
+        "address": "2311 Wilson Blvd, 2311 Wilson Blvd, Arlington, VA, Arlington, VA",
+        "lat": 38.8911055,
+        "lng": -77.0867833,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/design-thinking-dc/events/315994154/",
+      "organizer": "Design Thinking DC",
+      "categories": [
+        "design"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/design-thinking-dc/events/315994154/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "4feea27963cfaa12b15049fc2a8333d984882cb7416edca98614540df3887e07",
+      "title": "Intelligence and National Security Summit",
+      "description": null,
+      "start": "2026-08-25T20:00:00-04:00",
+      "end": "2026-08-25T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Bethesda North Marriott Hotel & Conference Center",
+        "address": "Bethesda North Marriott Hotel & Conference Center, Bethesda, MD",
+        "lat": 38.9812726,
+        "lng": -77.1233587,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://intelsummit.org/",
+      "organizer": "AFCEA",
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://intelsummit.org/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "fa22b2d81e2f785338f06d2ea14177c6b006c1c698cb5895139c0a02b85ccfb6",
+      "title": "AFCEA NOVA Honor Flight Send Off",
+      "description": null,
+      "start": "2026-08-25T20:00:00-04:00",
+      "end": "2026-08-25T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "IAD",
+        "address": "IAD, Dulles, VA",
+        "lat": 38.9522663,
+        "lng": -77.4534849,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://afceanova.swoogo.com/honorflightaug26",
+      "organizer": "AFCEA",
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://afceanova.swoogo.com/honorflightaug26"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "926ef8b98734445af11a85fc29d8a981e2ed8742634147758c0af3bc154df08d",
+      "title": "AFCEA Belvoir August 2026 Luncheon *** Cancelled ***",
+      "description": null,
+      "start": "2026-08-25T20:00:00-04:00",
+      "end": "2026-08-25T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Embassy Suites by Hilton Springfield",
+        "address": "Embassy Suites by Hilton Springfield, Springfield, VA",
+        "lat": 38.7391241,
+        "lng": -77.1888073,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.eventbrite.com/o/afcea-belvoir-registrar-39119028693",
+      "organizer": "AFCEA",
+      "categories": [
+        "security",
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.eventbrite.com/o/afcea-belvoir-registrar-39119028693"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "afe5a1bf1bc10a6c702122e94767553f84fe7c1700d6a9a082e22ed3ce27710e",
+      "title": "How to Win DoW Funding (Members Only)",
+      "description": "STATION DC\nWashington, DC\nUnited States",
+      "start": "2026-08-26T09:00:00-04:00",
+      "end": "2026-08-26T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "STATION DC",
+        "address": "STATION DC, 1323 4th St NE Ste 200, Washington, DC 20002, USA",
+        "lat": 38.909549,
+        "lng": -76.9984619,
+        "precision": "exact"
+      },
+      "online": false,
+      "url": "https://luma.com/stationdc-hvtc",
+      "organizer": "STATION DC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/stationdc-hvtc"
+        },
+        {
+          "id": "station-dc",
+          "url": "https://luma.com/stationdc-hvtc"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "b71115e375ca5ad7e367a841ab186d0aa952054ad10af5ffccd05fbdde055564",
+      "title": "Talent and Defense",
+      "description": "STATION DC\nWashington, DC\nUnited States",
+      "start": "2026-08-26T17:30:00-04:00",
+      "end": "2026-08-26T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "STATION DC",
+        "address": "STATION DC, 1323 4th St NE Ste 200, Washington, DC 20002, USA",
+        "lat": 38.909549,
+        "lng": -76.9984619,
+        "precision": "exact"
+      },
+      "online": false,
+      "url": "https://luma.com/stationdc-du3z",
+      "organizer": "STATION DC",
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/stationdc-du3z"
+        },
+        {
+          "id": "station-dc",
+          "url": "https://luma.com/stationdc-du3z"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "e604b2a9f251f51b82e6980aaa3a12556bb966e2606eb0728efe746da3cc6e14",
+      "title": "Civic Tech DC Project Night",
+      "description": null,
+      "start": "2026-08-26T18:00:00-04:00",
+      "end": "2026-08-26T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Taoti Creative",
+        "address": "Taoti Creative, 507 8th St SE, Washington, DC 20003, USA",
+        "lat": 38.8823153,
+        "lng": -76.9953423,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://luma.com/s90bqs88",
+      "organizer": "Civic Tech DC",
+      "categories": [
+        "data"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/s90bqs88"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "f65b424479b724e4435abc403bfa0e0dc0aa097a67ed80655e45a52022e1d84b",
+      "title": "What Did You Test?",
+      "description": null,
+      "start": "2026-08-27T18:00:00-04:00",
+      "end": "2026-08-27T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Solution Street - Coppermine Rd.",
+        "address": "Solution Street - Coppermine Rd., 13800 Coppermine Rd. Suite 314, Herndon, VA, Herndon, VA",
+        "lat": 38.9695316,
+        "lng": -77.3859479,
+        "precision": "city-centroid"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/nova-architecture-round-table-meetup/events/315586037/",
+      "organizer": "NOVA Software Architecture Round Table Meetup",
+      "categories": [
+        "data"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/nova-architecture-round-table-meetup/events/315586037/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "24a48ccb186cca10483291464af5fe3200c782581bd8fda6cd155594b6bb11bf",
+      "title": "DC Tech Mixer",
+      "description": null,
+      "start": "2026-08-27T18:00:00-04:00",
+      "end": "2026-08-27T23:59:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": false,
+      "url": "https://www.meetup.com/dctechmixer/events/313919316/",
+      "organizer": "DC Startup and Tech Mixer",
+      "categories": [
+        "community",
+        "startups"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/dctechmixer/events/313919316/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "93ec04280143d4f99e227a8987381a88599aebb669ce73bd3273a5ed2cc8904a",
+      "title": "Bitcoin Book Club: The Praxeology of Privacy",
+      "description": null,
+      "start": "2026-08-27T18:30:00-04:00",
+      "end": "2026-08-27T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Teaism Penn Quarter",
+        "address": "Teaism Penn Quarter, 400 8th Street Northwest, Washington, DC, Washington, DC",
+        "lat": 38.8949554,
+        "lng": -77.0231696,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/bitcoin-district/events/315507601/",
+      "organizer": "Bitcoin District",
+      "categories": [
+        "startups",
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/bitcoin-district/events/315507601/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "1422403d66c4d2e7fb0d0500907f543e1d9f58f1411d6d41228dbf871016a93c",
+      "title": "Hardware Hacking Night",
+      "description": null,
+      "start": "2026-08-27T19:00:00-04:00",
+      "end": "2026-08-27T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "HacDC",
+        "address": "HacDC, 3333 14th St NW, Suite M110, Washington, DC, Washington, DC",
+        "lat": 38.9308396,
+        "lng": -77.0325456,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/hac-dc/events/314692763/",
+      "organizer": "HacDC",
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/hac-dc/events/314692763/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "71c168bf0590f25d8b9ace732bae27563706a1978aef7239110d72455831b10f",
+      "title": "Find a Cofounder / Help or Join a Tech Startup",
+      "description": null,
+      "start": "2026-08-27T20:00:00-04:00",
+      "end": "2026-08-27T23:59:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": false,
+      "url": "https://www.meetup.com/dc-startup-cofounders/events/313919800/",
+      "organizer": "D.C. Startup Founders & Tech Professionals",
+      "categories": [
+        "startups"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/dc-startup-cofounders/events/313919800/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "180f8bb4b21978309be090a2d905cd927c33cd0ab3ae10b34a19e9b9be782c37",
+      "title": "NOVA Code & Coffee [167] - At FCED Venue",
+      "description": null,
+      "start": "2026-08-29T10:00:00-04:00",
+      "end": "2026-08-29T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Fairfax City Economic Development",
+        "address": "Fairfax City Economic Development, 10300 Eaton Pl, Fairfax, VA, Fairfax, VA",
+        "lat": 38.8614934,
+        "lng": -77.3022194,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/nova-code-coffee/events/315951530/",
+      "organizer": "NoVA Code & Coffee",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/nova-code-coffee/events/315951530/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "cc8c170b38504e84222ab54f2dc3be19325500eb6da241178dc4cc8bc11d2723",
+      "title": "Museum Discussion: Product Management in the Age of AI | Nikhyl Singhal",
+      "description": null,
+      "start": "2026-08-29T10:30:00-04:00",
+      "end": "2026-08-29T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Smithsonian National Postal Museum",
+        "address": "Smithsonian National Postal Museum, 2 Massachusetts Ave NE, Washington, DC 20002, USA",
+        "lat": 38.8980746,
+        "lng": -77.0082108,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://luma.com/ai-8crf",
+      "organizer": "AI Discussion Club",
+      "categories": [
+        "ai",
+        "design"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/ai-8crf"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "29a32fbb9266619ab68641d10169360f3f92a5a9fd5f2612e16dbc64078b93c2",
+      "title": "UXDX DC Summer Picnic at The Yards Park",
+      "description": null,
+      "start": "2026-08-29T16:00:00-04:00",
+      "end": "2026-08-29T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Yards Park",
+        "address": "Yards Park, INTERSECTION OF N ST. SE AND FIRST ST. SE, Washington, DC, Washington, DC",
+        "lat": 38.8950982,
+        "lng": -77.0363849,
+        "precision": "city-centroid"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/uxdx-washington-d-c/events/315934826/",
+      "organizer": "UXDX Washington D.C.",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/uxdx-washington-d-c/events/315934826/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "42b0833ef92898af89af6c2dcaa25b1fcccf5e0408bc4bf9158d18d011f47cbc",
+      "title": "AI Meetup - all are welcome",
+      "description": null,
+      "start": "2026-08-30T09:00:00-04:00",
+      "end": "2026-08-30T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Grounded Coffee Shop",
+        "address": "Grounded Coffee Shop, 6919 Telegraph Road, Alexandria, VA, Alexandria, VA",
+        "lat": 38.804427,
+        "lng": -77.0741912,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/alexandria-ai-society-meetup-group/events/315327490/",
+      "organizer": "AI: Affecting Jobs, Society, Education, Work",
+      "categories": [
+        "ai",
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/alexandria-ai-society-meetup-group/events/315327490/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "d8a724472383c3bf74c669ed22cfb21c60194de14e06addb7a38ca4b4d2c3518",
+      "title": "Open Hac",
+      "description": null,
+      "start": "2026-08-31T19:00:00-04:00",
+      "end": "2026-08-31T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "HacDC",
+        "address": "HacDC, 3333 14th St NW, Suite M110, Washington, DC, Washington, DC",
+        "lat": 38.9308396,
+        "lng": -77.0325456,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/hac-dc/events/vwjzwtyjclbpc/",
+      "organizer": "HacDC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/hac-dc/events/vwjzwtyjclbpc/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "ca2a05c1f95e1595ada3e87c82b2f7fd803f06f2a2ace0db6954b0d85e2bed39",
+      "title": "Community Tuesdays at Refraction",
+      "description": "Cost: Free",
+      "start": "2026-09-01T09:00:00-04:00",
+      "end": "2026-09-01T10:00:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": null,
+        "address": "7950 Jones Branch Drive, 8th Floor North, McLean, VA 22102",
+        "lat": 38.9366852,
+        "lng": -77.185843,
+        "precision": "city-centroid"
+      },
+      "online": false,
+      "url": "https://refraction.zoholandingpage.com/communitytues/",
+      "organizer": null,
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://refraction.zoholandingpage.com/communitytues/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "020eb44ef54080c8f7bdf6e55ef309abf1ca1b2b68d5851ff72b65cbc22de2f1",
+      "title": "Modernizing Data Workloads AZ DocumentDB - Santosh Hari",
+      "description": null,
+      "start": "2026-09-01T18:30:00-04:00",
+      "end": "2026-09-01T23:59:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": false,
+      "url": "https://www.meetup.com/caparea-net/events/315976310/",
+      "organizer": "Capital Area .NET Users Group",
+      "categories": [
+        "data"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/caparea-net/events/315976310/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "c7a3f38e441e0b1ace006d9d2f74679355b641cec69ccaa903e12663c97dd725",
+      "title": "Yoga Hosted by Demati",
+      "description": "STATION DC\nWashington, DC\nUnited States",
+      "start": "2026-09-02T06:45:00-04:00",
+      "end": "2026-09-02T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "STATION DC",
+        "address": "STATION DC, 1323 4th St NE Suite 200, Washington, DC 20002, USA",
+        "lat": 38.909549,
+        "lng": -76.9984619,
+        "precision": "exact"
+      },
+      "online": false,
+      "url": "https://luma.com/stationdc-t6t6",
+      "organizer": "STATION DC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/stationdc-t6t6"
+        },
+        {
+          "id": "station-dc",
+          "url": "https://luma.com/stationdc-t6t6"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "6508bb910e5eea0288ffea4329042704eef7fc97bc8a5e544a89dacaaa22a906",
+      "title": "Hardware Hacking Night",
+      "description": null,
+      "start": "2026-09-03T19:00:00-04:00",
+      "end": "2026-09-03T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "HacDC",
+        "address": "HacDC, 3333 14th St NW, Suite M110, Washington, DC, Washington, DC",
+        "lat": 38.9308396,
+        "lng": -77.0325456,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/hac-dc/events/314692764/",
+      "organizer": "HacDC",
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/hac-dc/events/314692764/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "d3d414a93801028851e19089e3aa9ccb619953c4b2748ddd4a5f6d70882298c0",
+      "title": "GCP Professional Machine Learning Engineer - Preparation Strategy",
+      "description": null,
+      "start": "2026-09-03T19:00:00-04:00",
+      "end": "2026-09-03T23:59:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": false,
+      "url": "https://www.meetup.com/deep-learning-adventures/events/302185317/",
+      "organizer": "Deep Learning Adventures",
+      "categories": [
+        "ai",
+        "startups"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/deep-learning-adventures/events/302185317/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "331ce2533eca22daa487b7d377a6ebe6eb694e940c5bbf93821e3e98b0afbc63",
+      "title": "Game Dev Working Session (Tysons-Pimmit VA Library Conference Room)",
+      "description": null,
+      "start": "2026-09-05T10:00:00-04:00",
+      "end": "2026-09-05T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Tysons-Pimmit Regional Library",
+        "address": "Tysons-Pimmit Regional Library, 7584 Leesburg Pike, Falls Church, VA, Falls Church, VA",
+        "lat": 38.9069368,
+        "lng": -77.2064356,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/novagamedevs/events/315672235/",
+      "organizer": "NOVA Game Developers",
+      "categories": [
+        "data"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/novagamedevs/events/315672235/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "25fd128be28ee0c3bf92de97e87a3a7775dff805a423a2f76dbe2ac151bdb859",
+      "title": "Tech & Tacos: Code, Chat, & Crunch 🌮💻",
+      "description": null,
+      "start": "2026-09-05T12:30:00-04:00",
+      "end": "2026-09-05T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Bethesda Green",
+        "address": "Bethesda Green, 4825 Cordell Ave, 2nd Floor, Bethesda, MD, Bethesda, MD",
+        "lat": 38.9909705,
+        "lng": -77.0968775,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/bethesda-gdg/events/316006147/",
+      "organizer": "Google Developer Group Bethesda",
+      "categories": [
+        "data"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/bethesda-gdg/events/316006147/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "ee069f55859629579636ff5b417134f14338a5aebb4d6d5a51ca2ce01e322285",
+      "title": "Monthly Game Dev Meetup!",
+      "description": null,
+      "start": "2026-09-06T15:00:00-04:00",
+      "end": "2026-09-06T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Caboose Commons",
+        "address": "Caboose Commons, 2918 Eskridge Rd, Fairfax, VA, Fairfax, VA",
+        "lat": 38.872973,
+        "lng": -77.2319924,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/novagamedevs/events/316019251/",
+      "organizer": "NOVA Game Developers",
+      "categories": [
+        "data"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/novagamedevs/events/316019251/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "8b053d522f1cb68b8066113f8c616804293575c457fc52d2e5061f59d6795b06",
+      "title": "Open Hac",
+      "description": null,
+      "start": "2026-09-07T19:00:00-04:00",
+      "end": "2026-09-07T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "HacDC",
+        "address": "HacDC, 3333 14th St NW, Suite M110, Washington, DC, Washington, DC",
+        "lat": 38.9308396,
+        "lng": -77.0325456,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/hac-dc/events/vwjzwtyjcmbkb/",
+      "organizer": "HacDC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/hac-dc/events/vwjzwtyjcmbkb/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "ede39c30fa3fb88c13a0de6d7bfa1ced1795b83ca5c9b29b1fb7de7a4f247a71",
+      "title": "Billington CyberSecurity Summit (17th Annual)",
+      "description": "Cost: Check website for pricing",
+      "start": "2026-09-08T00:00:00-04:00",
+      "end": null,
+      "allDay": true,
+      "venue": {
+        "name": "Washington",
+        "address": "Washington, DC",
+        "lat": 38.8950982,
+        "lng": -77.0363849,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://billingtoncybersummit.com",
+      "organizer": null,
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://billingtoncybersummit.com"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "8c3983bb8a58f01ee4ee73c5aaf29cb6e9dc1b8f9c069c9a9573a88f3aa960f6",
+      "title": "Community Tuesdays at Refraction",
+      "description": "Cost: Free",
+      "start": "2026-09-08T09:00:00-04:00",
+      "end": "2026-09-08T10:00:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": null,
+        "address": "7950 Jones Branch Drive, 8th Floor North, McLean, VA 22102",
+        "lat": 38.9366852,
+        "lng": -77.185843,
+        "precision": "city-centroid"
+      },
+      "online": false,
+      "url": "https://refraction.zoholandingpage.com/communitytues/",
+      "organizer": null,
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://refraction.zoholandingpage.com/communitytues/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "6faf375ffd996995d46a4b98b7876b8db90e8fd5f15a5d48131f2c95d6faefb2",
+      "title": "Real Estate & Technology Roundtable",
+      "description": "STATION DC\nWashington, DC\nUnited States",
+      "start": "2026-09-08T09:00:00-04:00",
+      "end": "2026-09-08T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "STATION DC",
+        "address": "STATION DC, 1323 4th St NE Ste 200, Washington, DC 20002, USA",
+        "lat": 38.909549,
+        "lng": -76.9984619,
+        "precision": "exact"
+      },
+      "online": false,
+      "url": "https://luma.com/stationdc-w7dj",
+      "organizer": "STATION DC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/stationdc-w7dj"
+        },
+        {
+          "id": "station-dc",
+          "url": "https://luma.com/stationdc-w7dj"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "b53688375841b2aba8d6f6d1c8e98f9b687b9d99a400b17c986747e584669172",
+      "title": "STATION DC Chess Club",
+      "description": "STATION DC\nWashington, District of Columbia\nUnited States",
+      "start": "2026-09-08T17:00:00-04:00",
+      "end": "2026-09-08T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "STATION DC",
+        "address": "STATION DC, 1323 4th St NE Suite 200, Washington, DC 20002, USA",
+        "lat": 38.909549,
+        "lng": -76.9984619,
+        "precision": "exact"
+      },
+      "online": false,
+      "url": "https://luma.com/431dzi95",
+      "organizer": "STATION DC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/431dzi95"
+        },
+        {
+          "id": "station-dc",
+          "url": "https://luma.com/431dzi95"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "b4d8aa3875f69f704aaf564640f540ed7c52aecd246c5f00da6ec6b5c4f2413d",
+      "title": "Emerging Leaders Monthly Social",
+      "description": null,
+      "start": "2026-09-08T20:00:00-04:00",
+      "end": "2026-09-08T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Columbia Ale House - 6480 Dobbin Center Way",
+        "address": "Columbia Ale House - 6480 Dobbin Center Way, Columbia, MD",
+        "lat": 39.1984693,
+        "lng": -76.8198927,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=81813",
+      "organizer": "AFCEA",
+      "categories": [
+        "security",
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=81813"
+        }
+      ],
+      "metro": "baltimore",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "cad1d90612f38ca8c43be64212052ef89b012d848a6a60c63f86d1f5291b13da",
+      "title": "AI Agents at Work",
+      "description": "STATION DC\nWashington, DC\nUnited States",
+      "start": "2026-09-09T17:30:00-04:00",
+      "end": "2026-09-09T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "STATION DC",
+        "address": "STATION DC, 1323 4th St NE Ste 200, Washington, DC 20002, USA",
+        "lat": 38.909549,
+        "lng": -76.9984619,
+        "precision": "exact"
+      },
+      "online": false,
+      "url": "https://luma.com/stationdc-s4cz",
+      "organizer": "STATION DC",
+      "categories": [
+        "ai"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/stationdc-s4cz"
+        },
+        {
+          "id": "station-dc",
+          "url": "https://luma.com/stationdc-s4cz"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "1a89d012a82712f1ec744941efbd5f6d8826acfa288e5e6dce890dd20921faf2",
+      "title": "Game Dev Night (DC - MLK Library, Room: 401-A)",
+      "description": null,
+      "start": "2026-09-09T18:30:00-04:00",
+      "end": "2026-09-09T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Martin Luther King Jr. Memorial Library",
+        "address": "Martin Luther King Jr. Memorial Library, 901 G St NW, Washington, DC, Washington, DC",
+        "lat": 38.8986914,
+        "lng": -77.0247662,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/igda-dc/events/315982640/",
+      "organizer": "IGDA DC",
+      "categories": [
+        "data"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/igda-dc/events/315982640/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "58e6629ebee36b828a9e4cb0fc31f9e55915aa9eee8c65d403e9a2e721043bfa",
+      "title": "Pizza and Networking at Andy's Pizza in Tyson's Galleria : Tysons, VA :",
+      "description": null,
+      "start": "2026-09-09T19:00:00-04:00",
+      "end": "2026-09-09T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Andy's Pizza",
+        "address": "Andy's Pizza, 2001 International Dr,, McLean, VA, McLean, VA",
+        "lat": 38.9240126,
+        "lng": -77.2243841,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/ai-innovators-network-tysons-meetup-dc-nova-md/events/315599061/",
+      "organizer": "AI Innovators Network",
+      "categories": [
+        "ai",
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/ai-innovators-network-tysons-meetup-dc-nova-md/events/315599061/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "eb1cc41444e049dc7eeea3a12adab0918c7016712f4862d971bc2a7385a22e1a",
+      "title": "AFCEA NOVA September Luncheon",
+      "description": null,
+      "start": "2026-09-09T20:00:00-04:00",
+      "end": "2026-09-09T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Carahsoft Technology",
+        "address": "Carahsoft Technology, Reston, VA",
+        "lat": 38.953282,
+        "lng": -77.3464516,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=81411",
+      "organizer": "AFCEA",
+      "categories": [
+        "security",
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=81411"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "34673f5574d9996f65e992c7bbcc24a764003aeb8dbfec66c54a60aec5822a7c",
+      "title": "AFCEA Hampton Roads Chapter 36th Annual STEM Scholarship Golf Classic",
+      "description": null,
+      "start": "2026-09-09T20:00:00-04:00",
+      "end": "2026-09-09T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Sewell's Point Golf Course",
+        "address": "Sewell's Point Golf Course, Norfolk, VA",
+        "lat": 38.803161,
+        "lng": -77.1264927,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://events.golfstatus.com/event/afcea-hampton-roads-chapter-36th-annual-stem-scholarship-golf-classic",
+      "organizer": "AFCEA",
+      "categories": [
+        "security",
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://events.golfstatus.com/event/afcea-hampton-roads-chapter-36th-annual-stem-scholarship-golf-classic"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "01bc50159665e78d6f3f1dd5b461bef63796d663d63f60a765bd53178fddb5ca",
+      "title": "How Leading Organizations Are Becoming AI-Native",
+      "description": null,
+      "start": "2026-09-10T08:30:00-04:00",
+      "end": "2026-09-10T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "LMI Headquarters",
+        "address": "LMI Headquarters, 7940 Jones Branch Drive, McLean, VA, 22102, United States",
+        "lat": 38.9366852,
+        "lng": -77.185843,
+        "precision": "city-centroid"
+      },
+      "online": false,
+      "url": "https://www.nvtc.org/event/how-leading-organizations-are-becoming-ai-native/",
+      "organizer": "Northern Virginia Technology Council",
+      "categories": [
+        "ai"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.nvtc.org/event/how-leading-organizations-are-becoming-ai-native/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "95f537d920078bbcf53d753754e05301895137321ca49f7a4ea940fb6f566771",
+      "title": "vcIQ: Deep Tech Founder Session",
+      "description": null,
+      "start": "2026-09-10T09:00:00-04:00",
+      "end": "2026-09-10T23:59:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": true,
+      "url": "https://luma.com/vcIQ-DEEPTECH",
+      "organizer": "VC in DC",
+      "categories": [
+        "startups"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/vcIQ-DEEPTECH"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "e9ae9a6753d9e22503932f36fd2fe0d60a3ccb93198b6b1203f45197b1f148a0",
+      "title": "What AI Agents Actually Need from Your Cloud Stack",
+      "description": null,
+      "start": "2026-09-10T18:00:00-04:00",
+      "end": "2026-09-10T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "AWS Skills Center",
+        "address": "AWS Skills Center, 1550-G Crystal Dr, Arlington, VA, Arlington, VA",
+        "lat": 38.8526564,
+        "lng": -77.0496683,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/amazon-web-services-dmv/events/315909247/",
+      "organizer": "AWS DMV User Group",
+      "categories": [
+        "ai",
+        "data"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/amazon-web-services-dmv/events/315909247/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "feec4e0aa5fba7b5a4bb028dd2bf659a9b9ee1c94bcac17e4351c9190dc1a0f9",
+      "title": "Inside Claude’s J-Space: Digital Minds Reading Group",
+      "description": null,
+      "start": "2026-09-10T19:00:00-04:00",
+      "end": "2026-09-10T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Martin Luther King Library",
+        "address": "Martin Luther King Library, 901 G Street Northwest, Washington, DC, Washington, DC",
+        "lat": 38.8986914,
+        "lng": -77.0247662,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/dc-digital-minds/events/315910734/",
+      "organizer": "The DC Digital Minds Meetup",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/dc-digital-minds/events/315910734/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "9875fa8744aa4bf2b17f2db25d33b1e39feb129a36cc0447196d6b0ca5950b6b",
+      "title": "Hardware Hacking Night",
+      "description": null,
+      "start": "2026-09-10T19:00:00-04:00",
+      "end": "2026-09-10T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "HacDC",
+        "address": "HacDC, 3333 14th St NW, Suite M110, Washington, DC, Washington, DC",
+        "lat": 38.9308396,
+        "lng": -77.0325456,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/hac-dc/events/314692765/",
+      "organizer": "HacDC",
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/hac-dc/events/314692765/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "07077a26fc4c38bb6a0f038ae0947cef95facbcf9ab5d2606274ebaf1f983f54",
+      "title": "GCP Professional Machine Learning Engineer - Exam Experience",
+      "description": null,
+      "start": "2026-09-10T19:00:00-04:00",
+      "end": "2026-09-10T23:59:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": false,
+      "url": "https://www.meetup.com/deep-learning-adventures/events/302185328/",
+      "organizer": "Deep Learning Adventures",
+      "categories": [
+        "ai",
+        "startups"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/deep-learning-adventures/events/302185328/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "67687f9fa3781a476f9022f5ec376e17bbf3c2a6d688e435a863dd122279b391",
+      "title": "Civic Hack DC 2026 – Part 2: From Prototype to Production",
+      "description": null,
+      "start": "2026-09-12T10:00:00-04:00",
+      "end": "2026-09-12T23:59:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": true,
+      "url": "https://luma.com/vu8ktr9y",
+      "organizer": "Civic Tech DC",
+      "categories": [
+        "data",
+        "design"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/vu8ktr9y"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "28094aa8e24b62400a925881350a0b144d8bbbfb272ca30939d0140b13d52fc4",
+      "title": "Game Development Working Session (DC - MLK Library, Room: 401-E)",
+      "description": null,
+      "start": "2026-09-12T14:00:00-04:00",
+      "end": "2026-09-12T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Martin Luther King Jr. Memorial Library",
+        "address": "Martin Luther King Jr. Memorial Library, 901 G St NW, Washington, DC, Washington, DC",
+        "lat": 38.8986914,
+        "lng": -77.0247662,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/igda-dc/events/315982969/",
+      "organizer": "IGDA DC",
+      "categories": [
+        "data"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/igda-dc/events/315982969/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "3146b8bfdc62a7a092526cfcda4c515a92f9c14f874e31879f8734baea3abb91",
+      "title": "NoVA Hackers September Meeting",
+      "description": null,
+      "start": "2026-09-14T18:30:00-04:00",
+      "end": "2026-09-14T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Reston Community Center",
+        "address": "Reston Community Center, 2310 Colts Neck Rd, Reston, VA, Reston, VA",
+        "lat": 38.9365249,
+        "lng": -77.3604912,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/nova-hackers/events/315675353/",
+      "organizer": "NoVA Hackers",
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/nova-hackers/events/315675353/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "cea3a77ab05f9ac74cd0cc377fdcc090556b3c9c5a7636a4de3ce3263d534345",
+      "title": "Open Conversations: February Edition",
+      "description": null,
+      "start": "2026-09-14T19:00:00-04:00",
+      "end": "2026-09-14T23:59:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": false,
+      "url": "https://www.meetup.com/blacks-united-in-leading-technology-washington-d-c/events/314181505/",
+      "organizer": "Blacks United in Leading Technology Washington DC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/blacks-united-in-leading-technology-washington-d-c/events/314181505/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "66263969d38b154e8acb9704afe1d8bc1b4c2a09be9b9160d77e7f5e5176e92b",
+      "title": "Government and AI Summit",
+      "description": null,
+      "start": "2026-09-15T04:00:00-04:00",
+      "end": "2026-09-15T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Washington",
+        "address": "Washington, DC",
+        "lat": 38.8950982,
+        "lng": -77.0363849,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://events.govexec.com/government-ai-summit-2026/home/",
+      "organizer": "Washington Technology Events",
+      "categories": [
+        "ai"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://events.govexec.com/government-ai-summit-2026/home/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "34aca8a683162c4eae474336d2491080ddae07eb84b62a955271118a6f17363e",
+      "title": "Federal Cyber Defense Breakfast",
+      "description": null,
+      "start": "2026-09-15T08:00:00-04:00",
+      "end": "2026-09-15T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Ritz-Carlton",
+        "address": "Ritz-Carlton, Pentagon City, 1250 S Hayes St, Arlington, VA, 22202",
+        "lat": 38.8630421,
+        "lng": -77.059427,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://federalcyberdefense.upgather.com",
+      "organizer": "DefenseScoop",
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://federalcyberdefense.upgather.com"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "90023c133363d5efd7482f9056749b869f0b0ae680cea628c56ec9220d0c77d6",
+      "title": "6th Annual KCD Washington DC",
+      "description": null,
+      "start": "2026-09-15T08:00:00-04:00",
+      "end": "2026-09-15T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "American Red Cross Hall of Service",
+        "address": "American Red Cross Hall of Service, 1730 E St., NW, Washington, DC, Washington, DC",
+        "lat": 38.8959334,
+        "lng": -77.0224446,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/cloudnativedc/events/314967132/",
+      "organizer": "CloudNative DC (formerly Kubernetes Meetup DC)",
+      "categories": [
+        "data"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/cloudnativedc/events/314967132/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "d57cf88dd8301931688af2dc5188dc80f32c3d641de5fc6ae594528ce6557b0a",
+      "title": "Community Tuesdays at Refraction",
+      "description": "Cost: Free",
+      "start": "2026-09-15T09:00:00-04:00",
+      "end": "2026-09-15T10:00:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": null,
+        "address": "7950 Jones Branch Drive, 8th Floor North, McLean, VA 22102",
+        "lat": 38.9366852,
+        "lng": -77.185843,
+        "precision": "city-centroid"
+      },
+      "online": false,
+      "url": "https://refraction.zoholandingpage.com/communitytues/",
+      "organizer": null,
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://refraction.zoholandingpage.com/communitytues/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "cb8676787d97049e744e5b1410a81ec0d474d8164af13c516d71cfc2c5a6622f",
+      "title": "I KNOW A GUY",
+      "description": "STATION DC\nWashington, District of Columbia\nUnited States",
+      "start": "2026-09-15T16:00:00-04:00",
+      "end": "2026-09-15T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "STATION DC",
+        "address": "STATION DC, 1323 4th St NE Suite 200, Washington, DC 20002, USA",
+        "lat": 38.909549,
+        "lng": -76.9984619,
+        "precision": "exact"
+      },
+      "online": false,
+      "url": "https://luma.com/exvxq3s7",
+      "organizer": "STATION DC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/exvxq3s7"
+        },
+        {
+          "id": "station-dc",
+          "url": "https://luma.com/exvxq3s7"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "7a8f9fa17e2a154dbd1e60117bf5541e03c8453717c6afc3c9bc65eaafdca918",
+      "title": "Government Speaker Event",
+      "description": null,
+      "start": "2026-09-15T20:00:00-04:00",
+      "end": "2026-09-15T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "VA",
+        "address": "VA",
+        "lat": 38.9007688,
+        "lng": -77.03521,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.eventbrite.com/o/afcea-belvoir-registrar-39119028693",
+      "organizer": "AFCEA",
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.eventbrite.com/o/afcea-belvoir-registrar-39119028693"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "7511b864790383cad448ca8b76d77a967dcb139dfdda55221286d90ed014be1e",
+      "title": "Career Forward: Veteran Transition Summit",
+      "description": null,
+      "start": "2026-09-16T08:00:00-04:00",
+      "end": "2026-09-16T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Marymount Ballston Center",
+        "address": "Marymount Ballston Center, 1000 North Glebe Rd., Arlington, VA, 22207, United States",
+        "lat": 38.8824534,
+        "lng": -77.1169694,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.veteran-careers.org/product/career-forward-veteran-transition-summit/AYQLTNJPCH5ROFXIA6VXWRA3",
+      "organizer": "Northern Virginia Technology Council",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.veteran-careers.org/product/career-forward-veteran-transition-summit/AYQLTNJPCH5ROFXIA6VXWRA3"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "e8a616d6514a64e03e0d58383b0d4233121a89a17ea06dafd35dfe24cf65bbd1",
+      "title": "Orchestrate Everything: Online Data Engineering Conference",
+      "description": null,
+      "start": "2026-09-16T11:00:00-04:00",
+      "end": "2026-09-16T23:59:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": false,
+      "url": "https://www.meetup.com/dc-area-apache-airflow-meetup/events/315713003/",
+      "organizer": "DC Area Apache Airflow Meetup",
+      "categories": [
+        "data"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/dc-area-apache-airflow-meetup/events/315713003/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "14a7061d16cb4505e50228c7bd746002fc3cca1ece280b809862dd94db777b45",
+      "title": "Dashboards to Decisions: A Self-Correcting ML Loop with Elastic Observability",
+      "description": null,
+      "start": "2026-09-16T17:30:00-04:00",
+      "end": "2026-09-16T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": null,
+        "address": "4100 Fairfax Dr ste 500, 4100 Fairfax Dr ste 500, Arlington, VA, Arlington, VA",
+        "lat": 38.8818749,
+        "lng": -77.1096997,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/washington-dc-elastic-fantastics/events/315572730/",
+      "organizer": "Elastic Washington, D.C. User Group",
+      "categories": [
+        "ai"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/washington-dc-elastic-fantastics/events/315572730/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "66e611b45d7b5e90105443b1a6b52e1688a39c354fd2c8d9fe94072db3b1a711",
+      "title": "People Side of AI: Lessons from Change Management Front Lines : Crystal City, VA",
+      "description": null,
+      "start": "2026-09-16T18:00:00-04:00",
+      "end": "2026-09-16T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "AWS Skills Center (Crystal City)",
+        "address": "AWS Skills Center (Crystal City), 1550 Crystal Drive, Suite G, Arlington, VA, Arlington, VA",
+        "lat": 38.8596925,
+        "lng": -77.0497499,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/ai-innovators-network-tysons-meetup-dc-nova-md/events/315680645/",
+      "organizer": "AI Innovators Network",
+      "categories": [
+        "ai"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/ai-innovators-network-tysons-meetup-dc-nova-md/events/315680645/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "4ac8408d95383899000e2cc89ae0ff7b312d89d29cb7422df9ea69f31430d7ad",
+      "title": "Nerd Talk",
+      "description": null,
+      "start": "2026-09-16T18:30:00-04:00",
+      "end": "2026-09-16T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Tysons Corner Center",
+        "address": "Tysons Corner Center, 1961 Chain Bridge Rd Ste 105, Mc Lean, VA, Mc Lean, VA",
+        "lat": 38.9167177,
+        "lng": -77.22258,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/nerd-dinner-tysons/events/tcsrxsyjcmbvb/",
+      "organizer": "Nerd Dinner Tysons",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/nerd-dinner-tysons/events/tcsrxsyjcmbvb/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "f33973249edb113a08399acb906119f405b74ee623218d077a5bf3232162015b",
+      "title": "Golang Reston Monthly Meetup",
+      "description": null,
+      "start": "2026-09-16T19:00:00-04:00",
+      "end": "2026-09-16T23:59:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": false,
+      "url": "https://www.meetup.com/golang-reston/events/315571468/",
+      "organizer": "Golang Reston",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/golang-reston/events/315571468/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "8f51b7f97689722f3b465ca3a58fedd88a3099e3ebc19d85649ed0c976555c97",
+      "title": "AFCEA DC Monthly Luncheon",
+      "description": null,
+      "start": "2026-09-16T20:00:00-04:00",
+      "end": "2026-09-16T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Army Navy Country Club",
+        "address": "Army Navy Country Club, Arlington, VA",
+        "lat": 38.8549856,
+        "lng": -77.077367,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://dc.afceachapters.org/calendar",
+      "organizer": "AFCEA",
+      "categories": [
+        "security",
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://dc.afceachapters.org/calendar"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "e3bc635c0112f74be8636ec8eed8af815e77c542bdeea54021b30df5c40f6783",
+      "title": "SEPTEMBER - VC in DC's Third Thursdays",
+      "description": null,
+      "start": "2026-09-17T17:00:00-04:00",
+      "end": "2026-09-17T23:59:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": true,
+      "url": "https://luma.com/VCDC-TT-SEPT26",
+      "organizer": "VC in DC",
+      "categories": [
+        "startups"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/VCDC-TT-SEPT26"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "e9d619cd2233d070d20b261fbfd0c57e8f9eccd54f53714d88d9e4c42f0fe21a",
+      "title": "STATION DC Space Open Roundtable",
+      "description": "STATION DC\nWashington, District of Columbia\nUnited States",
+      "start": "2026-09-18T10:00:00-04:00",
+      "end": "2026-09-18T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "STATION DC",
+        "address": "STATION DC, 1323 4th St NE Suite 200, Washington, DC 20002, USA",
+        "lat": 38.909549,
+        "lng": -76.9984619,
+        "precision": "exact"
+      },
+      "online": false,
+      "url": "https://luma.com/tpmup51r",
+      "organizer": "STATION DC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/tpmup51r"
+        },
+        {
+          "id": "station-dc",
+          "url": "https://luma.com/tpmup51r"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "b445e7a69e177b80ba0acecaeb15ce9c636a7cff2db0af6404ccb1a33b1bfd2f",
+      "title": "Good Vibes with OpenSource AI - Monthly Meeting",
+      "description": null,
+      "start": "2026-09-19T10:00:00-04:00",
+      "end": "2026-09-19T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Mary Riley Styles Public Library 120 North Virginia Avenue 22046 Falls Church Virginia United States",
+        "address": "Mary Riley Styles Public Library 120 North Virginia Avenue 22046 Falls Church Virginia United States",
+        "lat": 38.8858606,
+        "lng": -77.1746367,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://mobilizon.us/events/18f15d74-bb61-4d85-a1ee-cc44bcd087d4",
+      "organizer": "Northern Virginia Linux Users Group (NoVaLUG)",
+      "categories": [
+        "ai",
+        "data"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://mobilizon.us/events/18f15d74-bb61-4d85-a1ee-cc44bcd087d4"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "4d72e7281fba3af283f7040ac298e141781af53494ec1a142a4e73d99f89c957",
+      "title": "Defense Tech Week",
+      "description": null,
+      "start": "2026-09-20T20:00:00-04:00",
+      "end": "2026-09-24T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Washington",
+        "address": "Washington, D.C.",
+        "lat": 38.8950982,
+        "lng": -77.0363849,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://defensetechweek.com",
+      "organizer": "DefenseScoop",
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://defensetechweek.com"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "a7f2f815a4fa5e408a9f044f1a75c2a94da76199e760f4db30bbd4d62818e882",
+      "title": "DefenseTalks 2026",
+      "description": null,
+      "start": "2026-09-22T08:00:00-04:00",
+      "end": "2026-09-22T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Ritz-Carlton",
+        "address": "Ritz-Carlton, Pentagon City, 1250 S Hayes St, Arlington, VA, 22202",
+        "lat": 38.8630421,
+        "lng": -77.059427,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://defensetalks.upgather.com",
+      "organizer": "DefenseScoop",
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://defensetalks.upgather.com"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "629928eaac825cd33eda7086ad0c67059c2eaeae86f411a970dfb5dc2bcba528",
+      "title": "Community Tuesdays at Refraction",
+      "description": "Cost: Free",
+      "start": "2026-09-22T09:00:00-04:00",
+      "end": "2026-09-22T10:00:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": null,
+        "address": "7950 Jones Branch Drive, 8th Floor North, McLean, VA 22102",
+        "lat": 38.9366852,
+        "lng": -77.185843,
+        "precision": "city-centroid"
+      },
+      "online": false,
+      "url": "https://refraction.zoholandingpage.com/communitytues/",
+      "organizer": null,
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://refraction.zoholandingpage.com/communitytues/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "b6cc237bf7264fb32e27076750207e2d016d43eee204927df979e41a4857e3b6",
+      "title": "STATION DC Energy Dominance Open Roundtable",
+      "description": "STATION DC\nWashington, District of Columbia\nUnited States",
+      "start": "2026-09-22T10:00:00-04:00",
+      "end": "2026-09-22T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "STATION DC",
+        "address": "STATION DC, 1323 4th St NE Suite 200, Washington, DC 20002, USA",
+        "lat": 38.909549,
+        "lng": -76.9984619,
+        "precision": "exact"
+      },
+      "online": false,
+      "url": "https://luma.com/9j0q288r",
+      "organizer": "STATION DC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/9j0q288r"
+        },
+        {
+          "id": "station-dc",
+          "url": "https://luma.com/9j0q288r"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "12f1aa96c205c75821857472b6b70fa5cbd61d8324fa02082fb80ab8e9a135a8",
+      "title": "Defense Tech DC 019",
+      "description": null,
+      "start": "2026-09-22T17:30:00-04:00",
+      "end": "2026-09-22T23:59:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": true,
+      "url": "https://luma.com/dtdc019",
+      "organizer": "Defense Tech DC",
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/dtdc019"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "eccdb64175440896ea5a0c0f04f9a14370543a12dccade737272fb6056c0eebb",
+      "title": "AFCEA Belvoir September 2026 Luncheon",
+      "description": null,
+      "start": "2026-09-22T20:00:00-04:00",
+      "end": "2026-09-22T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Embassy Suites by Hilton Springfield",
+        "address": "Embassy Suites by Hilton Springfield, Springfield, VA",
+        "lat": 38.7391241,
+        "lng": -77.1888073,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.eventbrite.com/o/afcea-belvoir-registrar-39119028693",
+      "organizer": "AFCEA",
+      "categories": [
+        "security",
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.eventbrite.com/o/afcea-belvoir-registrar-39119028693"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "13708c0c8cc193400bd19d8289e8c9701c1d8dec127d6e9de7aeca7f6fd38d6c",
+      "title": "CDAO Washington D.C.",
+      "description": "Cost: Registration is complimentary for qualifying executives. Code DCTECH30 for 30% off all other passes",
+      "start": "2026-09-23T00:00:00-04:00",
+      "end": null,
+      "allDay": true,
+      "venue": {
+        "name": "Le Méridien",
+        "address": "Le Méridien, 1177 15th Street NW, Washington, DC 20005",
+        "lat": 38.905369,
+        "lng": -77.03406,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://cdao-dc.coriniumintelligence.com/?utm_source=DCTech",
+      "organizer": null,
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://cdao-dc.coriniumintelligence.com/?utm_source=DCTech"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "a8b1a3a937764bc654c15c52e2f3096882fcfced3049eaf83b34c56495ad3c46",
+      "title": "Define Success for Today’s Revenue Leaders: A C-Suite Perspective",
+      "description": null,
+      "start": "2026-09-24T08:30:00-04:00",
+      "end": "2026-09-24T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Refraction",
+        "address": "Refraction, 7950 Jones Branch Drive, McLean, VA, 22102, United States",
+        "lat": 38.9366852,
+        "lng": -77.185843,
+        "precision": "city-centroid"
+      },
+      "online": false,
+      "url": "https://www.nvtc.org/event/define-success-for-todays-revenue-leaders-a-c-suite-perspective/",
+      "organizer": "Northern Virginia Technology Council",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.nvtc.org/event/define-success-for-todays-revenue-leaders-a-c-suite-perspective/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "229f8e7d1738a1c8451c59dd2dd81d998a6f7e77eb232bd199be73b434bff355",
+      "title": "Find a Cofounder / Help or Join a Tech Startup",
+      "description": null,
+      "start": "2026-09-24T20:00:00-04:00",
+      "end": "2026-09-24T23:59:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": false,
+      "url": "https://www.meetup.com/dc-startup-cofounders/events/314897746/",
+      "organizer": "D.C. Startup Founders & Tech Professionals",
+      "categories": [
+        "startups"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/dc-startup-cofounders/events/314897746/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "47fb5c9c4a5cab64d21ec59d3adc5aa6b5a6587ab2acdf14d742d5ac864d42a2",
+      "title": "NOVA Code & Coffee [168] - At FCED Venue",
+      "description": null,
+      "start": "2026-09-26T10:00:00-04:00",
+      "end": "2026-09-26T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Fairfax City Economic Development",
+        "address": "Fairfax City Economic Development, 10300 Eaton Pl, Fairfax, VA, Fairfax, VA",
+        "lat": 38.8614934,
+        "lng": -77.3022194,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/nova-code-coffee/events/315951621/",
+      "organizer": "NoVA Code & Coffee",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/nova-code-coffee/events/315951621/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "fd1af82b193a84ece9827ef0504ee83e435f8a7a99e6ab10399a34853b1404e5",
+      "title": "AFCEA NOVA Innovation IT Day Showcase *** Cancelled ***",
+      "description": null,
+      "start": "2026-09-28T20:00:00-04:00",
+      "end": "2026-09-28T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Carahsoft Technology",
+        "address": "Carahsoft Technology, Reston, VA",
+        "lat": 38.953282,
+        "lng": -77.3464516,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=78832",
+      "organizer": "AFCEA",
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=78832"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "846fdddad4d73729caa7e621d727af98e20c4ddd1b41e434b0ef92306f3a6b7f",
+      "title": "New Member Orientation",
+      "description": null,
+      "start": "2026-09-29T08:30:00-04:00",
+      "end": "2026-09-29T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Insperity",
+        "address": "Insperity, 7950 Jones Branch Dr #600, McLean, VA, 22102, United States",
+        "lat": 38.9366852,
+        "lng": -77.185843,
+        "precision": "city-centroid"
+      },
+      "online": false,
+      "url": "https://www.nvtc.org/event/new-member-orientation-2/",
+      "organizer": "Northern Virginia Technology Council",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.nvtc.org/event/new-member-orientation-2/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "63f9d6538934bcb38ede070421d5c75ded6cb7b58af1bfcacf1ae2b80745a00f",
+      "title": "Community Tuesdays at Refraction",
+      "description": "Cost: Free",
+      "start": "2026-09-29T09:00:00-04:00",
+      "end": "2026-09-29T10:00:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": null,
+        "address": "7950 Jones Branch Drive, 8th Floor North, McLean, VA 22102",
+        "lat": 38.9366852,
+        "lng": -77.185843,
+        "precision": "city-centroid"
+      },
+      "online": false,
+      "url": "https://refraction.zoholandingpage.com/communitytues/",
+      "organizer": null,
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://refraction.zoholandingpage.com/communitytues/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "7ef78747ea784e5d0fe261720d70b4b6d2c1cf7a5b5ab6c9944dd65fb385cd70",
+      "title": "TEDxMeetup: Celebrate 2026 and Share Ideas for 2027",
+      "description": null,
+      "start": "2026-10-01T17:30:00-04:00",
+      "end": "2026-10-01T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": null,
+        "address": "1341 14th St NW, Washington, DC 20005, USA",
+        "lat": 38.9081182,
+        "lng": -77.0318417,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://luma.com/q5nhcq5e",
+      "organizer": "TEDx Logan Circle",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/q5nhcq5e"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "5a410763f059e3bbb402eb3cdf56e2a5dadc48d7780798d1b044bbafe73b9233",
+      "title": "DMV Community Day 2026 - Read Description, Please",
+      "description": null,
+      "start": "2026-10-02T09:00:00-04:00",
+      "end": "2026-10-02T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "WAS17 - Merlin Building",
+        "address": "WAS17 - Merlin Building, 14th Street South, Arlington, VA, Arlington, VA",
+        "lat": 38.8463946,
+        "lng": -77.111908,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/amazon-web-services-dmv/events/315993008/",
+      "organizer": "AWS DMV User Group",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/amazon-web-services-dmv/events/315993008/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "76af48bac538156c8fc6620448174c0020569059a804c265c8d08083c618f1d3",
+      "title": "Monthly Game Dev Meetup!",
+      "description": null,
+      "start": "2026-10-04T15:00:00-04:00",
+      "end": "2026-10-04T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Caboose Commons",
+        "address": "Caboose Commons, 2918 Eskridge Rd, Fairfax, VA, Fairfax, VA",
+        "lat": 38.872973,
+        "lng": -77.2319924,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/novagamedevs/events/316019345/",
+      "organizer": "NOVA Game Developers",
+      "categories": [
+        "data"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/novagamedevs/events/316019345/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "ebaf970b000849ca61c99893cd13a42b78b846f6aa0bb24f858aadb7ec95c5fd",
+      "title": "STATION DC Chess Club",
+      "description": "STATION DC\nWashington, District of Columbia\nUnited States",
+      "start": "2026-10-05T17:00:00-04:00",
+      "end": "2026-10-05T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "STATION DC",
+        "address": "STATION DC, 1323 4th St NE Suite 200, Washington, DC 20002, USA",
+        "lat": 38.909549,
+        "lng": -76.9984619,
+        "precision": "exact"
+      },
+      "online": false,
+      "url": "https://luma.com/acfa2wia",
+      "organizer": "STATION DC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/acfa2wia"
+        },
+        {
+          "id": "station-dc",
+          "url": "https://luma.com/acfa2wia"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "2291cd665a3b810e2b29874ec54b4d03caa77b758385fdee0785c06774142220",
+      "title": "Community Tuesdays at Refraction",
+      "description": "Cost: Free",
+      "start": "2026-10-06T09:00:00-04:00",
+      "end": "2026-10-06T10:00:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": null,
+        "address": "7950 Jones Branch Drive, 8th Floor North, McLean, VA 22102",
+        "lat": 38.9366852,
+        "lng": -77.185843,
+        "precision": "city-centroid"
+      },
+      "online": false,
+      "url": "https://refraction.zoholandingpage.com/communitytues/",
+      "organizer": null,
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://refraction.zoholandingpage.com/communitytues/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "c0fea1aacbd9abb73d9bc41d641743f465f72765294bde866e3d6fee89923526",
+      "title": "STATION DC Robotics Open Roundtable",
+      "description": "STATION DC\nWashington, District of Columbia\nUnited States",
+      "start": "2026-10-06T10:00:00-04:00",
+      "end": "2026-10-06T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "STATION DC",
+        "address": "STATION DC, 1323 4th St NE Suite 200, Washington, DC 20002, USA",
+        "lat": 38.909549,
+        "lng": -76.9984619,
+        "precision": "exact"
+      },
+      "online": false,
+      "url": "https://luma.com/xs75qr4g",
+      "organizer": "STATION DC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/xs75qr4g"
+        },
+        {
+          "id": "station-dc",
+          "url": "https://luma.com/xs75qr4g"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "5d4fe139a15eb6212dc4b024bec4d336f017189474bcee8322ce6c80ae62d216",
+      "title": "Naval IT Day",
+      "description": null,
+      "start": "2026-10-06T20:00:00-04:00",
+      "end": "2026-10-06T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Westfields Marriott Washington Dulles",
+        "address": "Westfields Marriott Washington Dulles, Chantilly, VA",
+        "lat": 38.8747988,
+        "lng": -77.4559486,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=80951",
+      "organizer": "AFCEA",
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=80951"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "3634ac9f4db8638d972aa4cc2cd86a689e2d88fb525d6570d700c8a69928774e",
+      "title": "AFCEA DC Happy Hour",
+      "description": null,
+      "start": "2026-10-06T20:00:00-04:00",
+      "end": "2026-10-06T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Army Navy Country Club",
+        "address": "Army Navy Country Club, Arlington, VA",
+        "lat": 38.8549856,
+        "lng": -77.077367,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://dc.afceachapters.org/calendar",
+      "organizer": "AFCEA",
+      "categories": [
+        "security",
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://dc.afceachapters.org/calendar"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "2526e4d38878989ec63e3ee81c8a1574e112c33b615da9b9db853d25c7f7409b",
+      "title": "AFCEA Hampton Roads Chapter October Luncheon",
+      "description": null,
+      "start": "2026-10-07T20:00:00-04:00",
+      "end": "2026-10-07T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Hilton The Main",
+        "address": "Hilton The Main, Norfolk, VA",
+        "lat": 38.803161,
+        "lng": -77.1264927,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://hamptonroads.afceachapters.org/node/235",
+      "organizer": "AFCEA",
+      "categories": [
+        "security",
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://hamptonroads.afceachapters.org/node/235"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "7d3bf2df7ce7dae83257ed71ff924cac0eb5bd3c0e9a41c7dbcc9cb58a8a0157",
+      "title": "AFCEA CMD Grand Prix 2026",
+      "description": null,
+      "start": "2026-10-07T20:00:00-04:00",
+      "end": "2026-10-07T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "United Karting",
+        "address": "United Karting, 7206 Ridge Rd, Hanover, MD",
+        "lat": 39.1928853,
+        "lng": -76.7241371,
+        "precision": "city-centroid"
+      },
+      "online": false,
+      "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=81712",
+      "organizer": "AFCEA",
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=81712"
+        }
+      ],
+      "metro": "baltimore",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "8e76203aefbab1194712f9727b0c3b3878899520d480b6924b5934f5a4c42f45",
+      "title": "AFCEA NOVA Small Business Breakfast",
+      "description": null,
+      "start": "2026-10-11T20:00:00-04:00",
+      "end": "2026-10-11T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Carahsoft Technology",
+        "address": "Carahsoft Technology, Reston, VA",
+        "lat": 38.953282,
+        "lng": -77.3464516,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=81211",
+      "organizer": "AFCEA",
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=81211"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "f8bf094fa4582185f2aadae24a44e4a99d3f934483e3973ac96e80db790eeee3",
+      "title": "Open Conversations: February Edition",
+      "description": null,
+      "start": "2026-10-12T19:00:00-04:00",
+      "end": "2026-10-12T23:59:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": false,
+      "url": "https://www.meetup.com/blacks-united-in-leading-technology-washington-d-c/events/hjhqvtyjcnbqb/",
+      "organizer": "Blacks United in Leading Technology Washington DC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/blacks-united-in-leading-technology-washington-d-c/events/hjhqvtyjcnbqb/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "e8d4ef9571de65e1d7e386fd6c29ab97255c555abf55a22fa5ca40d36d5dcd41",
+      "title": "Community Tuesdays at Refraction",
+      "description": "Cost: Free",
+      "start": "2026-10-13T09:00:00-04:00",
+      "end": "2026-10-13T10:00:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": null,
+        "address": "7950 Jones Branch Drive, 8th Floor North, McLean, VA 22102",
+        "lat": 38.9366852,
+        "lng": -77.185843,
+        "precision": "city-centroid"
+      },
+      "online": false,
+      "url": "https://refraction.zoholandingpage.com/communitytues/",
+      "organizer": null,
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://refraction.zoholandingpage.com/communitytues/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "bec886a4f2f322ee7a9f525c804a2379345b55e705241bd413c532991be783bc",
+      "title": "STATION DC Transportation and Infrastructure Open Roundtable",
+      "description": "STATION DC\nWashington, District of Columbia\nUnited States",
+      "start": "2026-10-13T10:00:00-04:00",
+      "end": "2026-10-13T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "STATION DC",
+        "address": "STATION DC, 1323 4th St NE Suite 200, Washington, DC 20002, USA",
+        "lat": 38.909549,
+        "lng": -76.9984619,
+        "precision": "exact"
+      },
+      "online": false,
+      "url": "https://luma.com/0b54xqde",
+      "organizer": "STATION DC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/0b54xqde"
+        },
+        {
+          "id": "station-dc",
+          "url": "https://luma.com/0b54xqde"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "48f825b343a5f390ff341231241d9a37663920e4985ccab46a019a082c30199c",
+      "title": "Mappy Hour",
+      "description": null,
+      "start": "2026-10-13T18:00:00-04:00",
+      "end": "2026-10-13T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Capitol City Brewing Company",
+        "address": "Capitol City Brewing Company, 1100 New York Ave NW, Entrance is at 11th and H, Washington, DC, Washington, DC",
+        "lat": 38.8950982,
+        "lng": -77.0363849,
+        "precision": "city-centroid"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/mappingdc/events/qqvnvhyjcnbrb/",
+      "organizer": "MappingDC",
+      "categories": [
+        "data"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/mappingdc/events/qqvnvhyjcnbrb/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "d917dad549cc316ac223e47eb4a7f9e3f782e9d9f5333fb43f74ea8479a50f53",
+      "title": "VC in DC Roadshow: Atlanta 2026",
+      "description": null,
+      "start": "2026-10-13T19:30:00-04:00",
+      "end": "2026-10-13T23:59:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": true,
+      "url": "https://luma.com/VCDC-RoadshowAtlanta2026",
+      "organizer": "VC in DC",
+      "categories": [
+        "startups"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/VCDC-RoadshowAtlanta2026"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "f442138af88edc1975231ea3b3df1886fb3dab0411c441d914a7646d21708820",
+      "title": "Emerging Leaders Monthly Social",
+      "description": null,
+      "start": "2026-10-13T20:00:00-04:00",
+      "end": "2026-10-13T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Columbia Ale House - 6480 Dobbin Center Way",
+        "address": "Columbia Ale House - 6480 Dobbin Center Way, Columbia, MD",
+        "lat": 39.1984693,
+        "lng": -76.8198927,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=81814",
+      "organizer": "AFCEA",
+      "categories": [
+        "security",
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=81814"
+        }
+      ],
+      "metro": "baltimore",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "17bc855ce1f17c703bf9f4e311f0b6e9f0886d81bb1ed78dc9357c40b05d2717",
+      "title": "Yoga @ STATION DC Hosted by Demati",
+      "description": "STATION DC\nWashington, DC\nUnited States",
+      "start": "2026-10-14T06:45:00-04:00",
+      "end": "2026-10-14T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "STATION DC",
+        "address": "STATION DC, 1323 4th St NE Suite 200, Washington, DC 20002, USA",
+        "lat": 38.909549,
+        "lng": -76.9984619,
+        "precision": "exact"
+      },
+      "online": false,
+      "url": "https://luma.com/stationdc-dgjp",
+      "organizer": "STATION DC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/stationdc-dgjp"
+        },
+        {
+          "id": "station-dc",
+          "url": "https://luma.com/stationdc-dgjp"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "0e4f66d6c3c723874215a8748469559fa794aad7899bcc23dadef7c64df74b44",
+      "title": "[BREAKFAST] OCTOBER - VC in DC's Third Thursdays",
+      "description": null,
+      "start": "2026-10-15T09:00:00-04:00",
+      "end": "2026-10-15T23:59:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": true,
+      "url": "https://luma.com/VCDC-TT-OCT26",
+      "organizer": "VC in DC",
+      "categories": [
+        "startups"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/VCDC-TT-OCT26"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "92889416c64a224faf5ce29d731461acf5851ecf148c37411706d15efa986f72",
+      "title": "Built with charm #3",
+      "description": "4MLK\nGuests arriving should use the call button and let the desk attendant know they are here for the event.\nBaltimore, MD\nUnited States",
+      "start": "2026-10-15T18:00:00-04:00",
+      "end": "2026-10-15T20:00:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": null,
+        "address": "4MLK, 4 N Martin Luther King Jr Blvd, Baltimore, MD 21201, USA",
+        "lat": 39.2893796,
+        "lng": -76.6283262,
+        "precision": "exact"
+      },
+      "online": false,
+      "url": "https://luma.com/pma51bhr",
+      "organizer": "Baltimore Tech Meetup",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "baltimore-tech-luma",
+          "url": "https://luma.com/pma51bhr"
+        }
+      ],
+      "metro": "baltimore",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "4b6b55d3a43dde5738469b8a90fb31e1816485c142b06bf6347e00ede2ec4e45",
+      "title": "Community Tuesdays at Refraction",
+      "description": "Cost: Free",
+      "start": "2026-10-20T09:00:00-04:00",
+      "end": "2026-10-20T10:00:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": null,
+        "address": "7950 Jones Branch Drive, 8th Floor North, McLean, VA 22102",
+        "lat": 38.9366852,
+        "lng": -77.185843,
+        "precision": "city-centroid"
+      },
+      "online": false,
+      "url": "https://refraction.zoholandingpage.com/communitytues/",
+      "organizer": null,
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://refraction.zoholandingpage.com/communitytues/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "8fa168f2bf8aeb0306a0890a3c646b454b9e4d438f3ea6ebc3ec8462c5c9b692",
+      "title": "STATION DC Cybersecurity Open Roundtable",
+      "description": "STATION DC\nWashington, District of Columbia\nUnited States",
+      "start": "2026-10-20T10:00:00-04:00",
+      "end": "2026-10-20T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "STATION DC",
+        "address": "STATION DC, 1323 4th St NE Suite 200, Washington, DC 20002, USA",
+        "lat": 38.909549,
+        "lng": -76.9984619,
+        "precision": "exact"
+      },
+      "online": false,
+      "url": "https://luma.com/zhcnqewu",
+      "organizer": "STATION DC",
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/zhcnqewu"
+        },
+        {
+          "id": "station-dc",
+          "url": "https://luma.com/zhcnqewu"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "d7fea92ca9af2fd7ed8f7d1e9fa4f3fd90ae35cddd8c0c6190ee02ca71db3f29",
+      "title": "AFCEA Belvoir October 2026 Luncheon",
+      "description": null,
+      "start": "2026-10-20T20:00:00-04:00",
+      "end": "2026-10-20T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Embassy Suites by Hilton Springfield",
+        "address": "Embassy Suites by Hilton Springfield, Springfield, VA",
+        "lat": 38.7391241,
+        "lng": -77.1888073,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.eventbrite.com/o/afcea-belvoir-registrar-39119028693",
+      "organizer": "AFCEA",
+      "categories": [
+        "security",
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.eventbrite.com/o/afcea-belvoir-registrar-39119028693"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "2f6e8444aacea21319a97356e2a88eac6c01971c554d4769dcc70d166a280119",
+      "title": "Venture + Startup Gala",
+      "description": null,
+      "start": "2026-10-21T16:00:00-04:00",
+      "end": "2026-10-21T23:59:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": true,
+      "url": "https://luma.com/VentureStartupGala2026",
+      "organizer": "VC in DC",
+      "categories": [
+        "startups"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/VentureStartupGala2026"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "e59cbfeec1509fd3332dcde4db8890b48dd6c3b2ef698a8cb10c5b19e92215b1",
+      "title": "Nerd Talk",
+      "description": null,
+      "start": "2026-10-21T18:30:00-04:00",
+      "end": "2026-10-21T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Tysons Corner Center",
+        "address": "Tysons Corner Center, 1961 Chain Bridge Rd Ste 105, Mc Lean, VA, Mc Lean, VA",
+        "lat": 38.9167177,
+        "lng": -77.22258,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/nerd-dinner-tysons/events/tcsrxsyjcnbcc/",
+      "organizer": "Nerd Dinner Tysons",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/nerd-dinner-tysons/events/tcsrxsyjcnbcc/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "6a0e60d0c0d315a21c7cba2179d6959c59577e051e5ed20d75e4a8e03f18bac8",
+      "title": "Golang Reston Monthly Meetup",
+      "description": null,
+      "start": "2026-10-21T19:00:00-04:00",
+      "end": "2026-10-21T23:59:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": false,
+      "url": "https://www.meetup.com/golang-reston/events/cblrmsyjcnbcc/",
+      "organizer": "Golang Reston",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/golang-reston/events/cblrmsyjcnbcc/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "569e8047877a06b4e7e1f7aadbcbc3430bc640b866c38a9634b64b10508b5550",
+      "title": "Find a Cofounder / Help or Join a Tech Startup",
+      "description": null,
+      "start": "2026-10-22T20:00:00-04:00",
+      "end": "2026-10-22T23:59:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": false,
+      "url": "https://www.meetup.com/dc-startup-cofounders/events/315812853/",
+      "organizer": "D.C. Startup Founders & Tech Professionals",
+      "categories": [
+        "startups"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/dc-startup-cofounders/events/315812853/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "3419107dc98cd3f31c56df92bbefc3e504b617034a4a01fa3ac94533ef1386ee",
+      "title": "Fall Festival",
+      "description": null,
+      "start": "2026-10-23T20:00:00-04:00",
+      "end": "2026-10-23T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Sharp's at Waterford Farm",
+        "address": "Sharp's at Waterford Farm, Brookeville, MD 20833, MD",
+        "lat": 39.1803067,
+        "lng": -77.0584474,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=81931",
+      "organizer": "AFCEA",
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=81931"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "c16509477d9f2852f043bcf00e8916f10c10aac3e1a2859031875b121c9d5c4c",
+      "title": "Cyber Innovation Conference",
+      "description": null,
+      "start": "2026-10-26T08:30:00-04:00",
+      "end": "2026-10-27T23:59:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": true,
+      "url": "https://luma.com/vcdc",
+      "organizer": "VC in DC",
+      "categories": [
+        "startups"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/vcdc"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "4de5ffc0d5dc0aa918122a63334fbcb27ef886670ad87c3dfeea12a9f478dcf4",
+      "title": "Community Tuesdays at Refraction",
+      "description": "Cost: Free",
+      "start": "2026-10-27T09:00:00-04:00",
+      "end": "2026-10-27T10:00:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": null,
+        "address": "7950 Jones Branch Drive, 8th Floor North, McLean, VA 22102",
+        "lat": 38.9366852,
+        "lng": -77.185843,
+        "precision": "city-centroid"
+      },
+      "online": false,
+      "url": "https://refraction.zoholandingpage.com/communitytues/",
+      "organizer": null,
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://refraction.zoholandingpage.com/communitytues/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "13e8ba03b733fa754cce8ed9df23a79bff3d02a768289939e563f917c8885f03",
+      "title": "STATION DC Health Tech Open Roundtable",
+      "description": "STATION DC\nWashington, District of Columbia\nUnited States",
+      "start": "2026-10-27T10:00:00-04:00",
+      "end": "2026-10-27T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "STATION DC",
+        "address": "STATION DC, 1323 4th St NE Suite 200, Washington, DC 20002, USA",
+        "lat": 38.909549,
+        "lng": -76.9984619,
+        "precision": "exact"
+      },
+      "online": false,
+      "url": "https://luma.com/gnabm1x7",
+      "organizer": "STATION DC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/gnabm1x7"
+        },
+        {
+          "id": "station-dc",
+          "url": "https://luma.com/gnabm1x7"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "895c473128d0316e5675c4d072df17fef7a8c3565244aa0a43da7d4e8c175f91",
+      "title": "Defense Tech DC 020",
+      "description": null,
+      "start": "2026-10-27T17:30:00-04:00",
+      "end": "2026-10-27T23:59:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": true,
+      "url": "https://luma.com/dtdc020",
+      "organizer": "Defense Tech DC",
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/dtdc020"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "9266722c15eb5f564006fdc4a4be792ba525944d3caa3a45642b0838fe55fc3f",
+      "title": "NVTC Cyber Summit & Cyber50 Awards",
+      "description": null,
+      "start": "2026-10-28T13:00:00-04:00",
+      "end": "2026-10-28T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Appian HQ – Valo Park",
+        "address": "Appian HQ – Valo Park, 7950 Jones Branch Dr., McLean, VA, 22102, United States",
+        "lat": 38.9366852,
+        "lng": -77.185843,
+        "precision": "city-centroid"
+      },
+      "online": false,
+      "url": "https://nvtc.glueup.com/event/nvtc-cyber-summit-cyber50-awards-186181/",
+      "organizer": "Northern Virginia Technology Council",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://nvtc.glueup.com/event/nvtc-cyber-summit-cyber50-awards-186181/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "7a8c86cc4da66ce928d398273e5c71aef391d348eab24915536392827919b58c",
+      "title": "FORGE 2026",
+      "description": null,
+      "start": "2026-10-28T15:00:00-04:00",
+      "end": "2026-10-28T23:59:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": true,
+      "url": "https://luma.com/FORGE2026",
+      "organizer": "VC in DC",
+      "categories": [
+        "startups"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/FORGE2026"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "31e71e154e299b3bfc8eb07075c8311fb2bdfe64416d19c927c437787ebcd120",
+      "title": "FORGE 2026 - After Party",
+      "description": null,
+      "start": "2026-10-28T17:00:00-04:00",
+      "end": "2026-10-28T23:59:00-04:00",
+      "allDay": false,
+      "venue": null,
+      "online": true,
+      "url": "https://luma.com/FORGE2026-AfterParty",
+      "organizer": "VC in DC",
+      "categories": [
+        "startups"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/FORGE2026-AfterParty"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "184b81458e9f665db9f8159642f4938698c9202532ab46f1f7a5be6508738520",
+      "title": "AFCEA Belvoir 2026 Annual Fall Golf Classic",
+      "description": null,
+      "start": "2026-10-29T20:00:00-04:00",
+      "end": "2026-10-29T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "VA",
+        "address": "VA",
+        "lat": 38.9007688,
+        "lng": -77.03521,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.eventbrite.com/o/afcea-belvoir-registrar-39119028693",
+      "organizer": "AFCEA",
+      "categories": [
+        "security",
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.eventbrite.com/o/afcea-belvoir-registrar-39119028693"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "03346e05e7a085d5c6b41d87fdc6f6ed42205d9dc01efc5a8ea3db76f23095ae",
+      "title": "NOVA Code & Coffee [169] - At FCED Venue",
+      "description": null,
+      "start": "2026-10-31T10:00:00-04:00",
+      "end": "2026-10-31T23:59:00-04:00",
+      "allDay": false,
+      "venue": {
+        "name": "Fairfax City Economic Development",
+        "address": "Fairfax City Economic Development, 10300 Eaton Pl, Fairfax, VA, Fairfax, VA",
+        "lat": 38.8614934,
+        "lng": -77.3022194,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/nova-code-coffee/events/315951631/",
+      "organizer": "NoVA Code & Coffee",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/nova-code-coffee/events/315951631/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "a1d00c113e362ac980409f93cc63456038371eecc6bc6c4d7a0df6aa9162be3a",
+      "title": "Monthly Game Dev Meetup!",
+      "description": null,
+      "start": "2026-11-01T15:00:00-05:00",
+      "end": "2026-11-01T23:59:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": "Caboose Commons",
+        "address": "Caboose Commons, 2918 Eskridge Rd, Fairfax, VA, Fairfax, VA",
+        "lat": 38.872973,
+        "lng": -77.2319924,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/novagamedevs/events/316019423/",
+      "organizer": "NOVA Game Developers",
+      "categories": [
+        "data"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/novagamedevs/events/316019423/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "36f4c93421ddc43dfe8b1718d9ba07cd73210056ea4649b228e1c071a0b6e652",
+      "title": "STATION DC Chess Club",
+      "description": "STATION DC\nWashington, District of Columbia\nUnited States",
+      "start": "2026-11-02T17:00:00-05:00",
+      "end": "2026-11-02T23:59:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": "STATION DC",
+        "address": "STATION DC, 1323 4th St NE Suite 200, Washington, DC 20002, USA",
+        "lat": 38.909549,
+        "lng": -76.9984619,
+        "precision": "exact"
+      },
+      "online": false,
+      "url": "https://luma.com/sfrx1dhi",
+      "organizer": "STATION DC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/sfrx1dhi"
+        },
+        {
+          "id": "station-dc",
+          "url": "https://luma.com/sfrx1dhi"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "786d8949374516d665420b7873bdd9f7e5dff78f05be879af584879db76835f7",
+      "title": "Community Tuesdays at Refraction",
+      "description": "Cost: Free",
+      "start": "2026-11-03T09:00:00-05:00",
+      "end": "2026-11-03T10:00:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": null,
+        "address": "7950 Jones Branch Drive, 8th Floor North, McLean, VA 22102",
+        "lat": 38.9366852,
+        "lng": -77.185843,
+        "precision": "city-centroid"
+      },
+      "online": false,
+      "url": "https://refraction.zoholandingpage.com/communitytues/",
+      "organizer": null,
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://refraction.zoholandingpage.com/communitytues/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "edc1d415e2ee4c481d709980b603426d5c0e068bc5d9e6f1090f53f4261059ab",
+      "title": "STATION DC Maritime Open Roundtable",
+      "description": "STATION DC\nWashington, District of Columbia\nUnited States",
+      "start": "2026-11-03T10:00:00-05:00",
+      "end": "2026-11-03T23:59:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": "STATION DC",
+        "address": "STATION DC, 1323 4th St NE Suite 200, Washington, DC 20002, USA",
+        "lat": 38.909549,
+        "lng": -76.9984619,
+        "precision": "exact"
+      },
+      "online": false,
+      "url": "https://luma.com/o06hwjr9",
+      "organizer": "STATION DC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/o06hwjr9"
+        },
+        {
+          "id": "station-dc",
+          "url": "https://luma.com/o06hwjr9"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "32bf8874f01398b1351cf3f933876b99c0b231acfe3b430803bac847a5f04f17",
+      "title": "2026 Threat Response Forum",
+      "description": null,
+      "start": "2026-11-05T08:00:00-05:00",
+      "end": "2026-11-05T23:59:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": "Ritz-Carlton",
+        "address": "Ritz-Carlton, Pentagon City, 1250 S Hayes St, Arlington, VA, 22202",
+        "lat": 38.8630421,
+        "lng": -77.059427,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://threatresponseforum.upgather.com",
+      "organizer": "DefenseScoop",
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://threatresponseforum.upgather.com"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "b31aa1ca28c79c467c9bb85793ea0272e67167878f483495876ecb66e630d178",
+      "title": "Open Conversations: February Edition",
+      "description": null,
+      "start": "2026-11-09T19:00:00-05:00",
+      "end": "2026-11-09T23:59:00-05:00",
+      "allDay": false,
+      "venue": null,
+      "online": false,
+      "url": "https://www.meetup.com/blacks-united-in-leading-technology-washington-d-c/events/hjhqvtyjcpbmb/",
+      "organizer": "Blacks United in Leading Technology Washington DC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/blacks-united-in-leading-technology-washington-d-c/events/hjhqvtyjcpbmb/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "6485103459aeb6a7fb532086bf355cacb34cb805b30057df4c3207b6937025dd",
+      "title": "STATION DC Energy Dominance Open Roundtable",
+      "description": "STATION DC\nWashington, District of Columbia\nUnited States",
+      "start": "2026-11-10T10:00:00-05:00",
+      "end": "2026-11-10T23:59:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": "STATION DC",
+        "address": "STATION DC, 1323 4th St NE Suite 200, Washington, DC 20002, USA",
+        "lat": 38.909549,
+        "lng": -76.9984619,
+        "precision": "exact"
+      },
+      "online": false,
+      "url": "https://luma.com/fjgnoapu",
+      "organizer": "STATION DC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/fjgnoapu"
+        },
+        {
+          "id": "station-dc",
+          "url": "https://luma.com/fjgnoapu"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "68f5371fc29f50c2f2b126c145af5b9e07990c9bb70661a774e59015307f1b9f",
+      "title": "AFCEA NOVA Small Business Breakfast",
+      "description": null,
+      "start": "2026-11-11T19:00:00-05:00",
+      "end": "2026-11-11T23:59:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": "Carahsoft Technology",
+        "address": "Carahsoft Technology, Reston, VA",
+        "lat": 38.953282,
+        "lng": -77.3464516,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=81212",
+      "organizer": "AFCEA",
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=81212"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "b5f306c6c6bd959ba5183451d46985b9047d408f70003d8e8907bb678dc17025",
+      "title": "District Arcade",
+      "description": null,
+      "start": "2026-11-14T00:00:00-05:00",
+      "end": null,
+      "allDay": true,
+      "venue": null,
+      "online": false,
+      "url": "https://www.igdadc.org/districtarcade.html",
+      "organizer": null,
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.igdadc.org/districtarcade.html"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "c0bb75200b17e7d01250816ea0d698f9cb9ecf0d3bb1a9a4e5ea081d57405c38",
+      "title": "AFCEA Hampton Roads Chapter November Luncheon",
+      "description": null,
+      "start": "2026-11-16T19:00:00-05:00",
+      "end": "2026-11-16T23:59:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": "Hilton The Main",
+        "address": "Hilton The Main, Norfolk, VA",
+        "lat": 38.803161,
+        "lng": -77.1264927,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://hamptonroads.afceachapters.org/node/236",
+      "organizer": "AFCEA",
+      "categories": [
+        "security",
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://hamptonroads.afceachapters.org/node/236"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "a03ecd6963da7cf61b1e61dfb139b75292b379613874aaa31e1eb456f1030e30",
+      "title": "AI Summit",
+      "description": "Cost: Check website for pricing",
+      "start": "2026-11-17T00:00:00-05:00",
+      "end": null,
+      "allDay": true,
+      "venue": null,
+      "online": false,
+      "url": "https://govciomedia.com/ai-summit-2026/",
+      "organizer": null,
+      "categories": [
+        "ai"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://govciomedia.com/ai-summit-2026/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "6717ee821daddb9ed0851966a269937ae3440968f3f2a61a6510128d1d3c5ce2",
+      "title": "FEDTALKS 2026",
+      "description": null,
+      "start": "2026-11-17T09:00:00-05:00",
+      "end": "2026-11-17T23:59:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": "Waldorf Astoria",
+        "address": "Waldorf Astoria, Washington, D.C., 1100 Pennsylvania Avenue NW, Washington, D.C., 20004",
+        "lat": 38.8950982,
+        "lng": -77.0363849,
+        "precision": "city-centroid"
+      },
+      "online": false,
+      "url": "https://fedtalks.upgather.com",
+      "organizer": "DefenseScoop",
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://fedtalks.upgather.com"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "db09441ed535f3a681de93f0079cc442b2a494a6501d88a7289f6b47e06a3ca2",
+      "title": "STATION DC Additive Manufacturing Open Roundtable",
+      "description": "STATION DC\nWashington, District of Columbia\nUnited States",
+      "start": "2026-11-17T10:00:00-05:00",
+      "end": "2026-11-17T23:59:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": "STATION DC",
+        "address": "STATION DC, 1323 4th St NE Suite 200, Washington, DC 20002, USA",
+        "lat": 38.909549,
+        "lng": -76.9984619,
+        "precision": "exact"
+      },
+      "online": false,
+      "url": "https://luma.com/s46o4a73",
+      "organizer": "STATION DC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/s46o4a73"
+        },
+        {
+          "id": "station-dc",
+          "url": "https://luma.com/s46o4a73"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "fb72f1956b07e466dfaf1255f71afd9adf950e86a05e6b075638745660220ea3",
+      "title": "Emerging Leaders Monthly Social",
+      "description": null,
+      "start": "2026-11-17T19:00:00-05:00",
+      "end": "2026-11-17T23:59:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": "Columbia Ale House - 6480 Dobbin Center Way",
+        "address": "Columbia Ale House - 6480 Dobbin Center Way, Columbia, MD",
+        "lat": 39.1984693,
+        "lng": -76.8198927,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=81815",
+      "organizer": "AFCEA",
+      "categories": [
+        "security",
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=81815"
+        }
+      ],
+      "metro": "baltimore",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "0ac104ce71278db03c11ff27fecf36245b5b6ba048903f91b7ccc222fd23e3df",
+      "title": "AFCEA Belvoir November 2026 Luncheon",
+      "description": null,
+      "start": "2026-11-17T19:00:00-05:00",
+      "end": "2026-11-17T23:59:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": "Embassy Suites by Hilton Springfield",
+        "address": "Embassy Suites by Hilton Springfield, Springfield, VA",
+        "lat": 38.7391241,
+        "lng": -77.1888073,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.eventbrite.com/o/afcea-belvoir-registrar-39119028693",
+      "organizer": "AFCEA",
+      "categories": [
+        "security",
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.eventbrite.com/o/afcea-belvoir-registrar-39119028693"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "cfa738cc71952e6b90e6d9a3272237ca5816d13e14d45b152ecc1e2140a6967f",
+      "title": "Nerd Talk",
+      "description": null,
+      "start": "2026-11-18T18:30:00-05:00",
+      "end": "2026-11-18T23:59:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": "Tysons Corner Center",
+        "address": "Tysons Corner Center, 1961 Chain Bridge Rd Ste 105, Mc Lean, VA, Mc Lean, VA",
+        "lat": 38.9167177,
+        "lng": -77.22258,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/nerd-dinner-tysons/events/tcsrxsyjcpbxb/",
+      "organizer": "Nerd Dinner Tysons",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/nerd-dinner-tysons/events/tcsrxsyjcpbxb/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "02f02cafb902f9d9be64ff8aee79f84bd18b438e10e1f0d3bd7fd41a29e99e40",
+      "title": "Golang Reston Monthly Meetup",
+      "description": null,
+      "start": "2026-11-18T19:00:00-05:00",
+      "end": "2026-11-18T23:59:00-05:00",
+      "allDay": false,
+      "venue": null,
+      "online": false,
+      "url": "https://www.meetup.com/golang-reston/events/cblrmsyjcpbxb/",
+      "organizer": "Golang Reston",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/golang-reston/events/cblrmsyjcpbxb/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "d5491931b6ebc7e8918bd0579c683ebc4c67d7c09b6f4e04af0664e422c85aae",
+      "title": "Army G-6 AI Conference & Ball",
+      "description": null,
+      "start": "2026-11-18T19:00:00-05:00",
+      "end": "2026-11-18T23:59:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": "Hilton Alexandria Old Town",
+        "address": "Hilton Alexandria Old Town, Alexandria, VA",
+        "lat": 38.8071381,
+        "lng": -77.0595182,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=81851",
+      "organizer": "AFCEA",
+      "categories": [
+        "ai",
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=81851"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "c986dd42f2534e28c6ae5d7f7f31ba24f829faf8279c33298e7afc73f1796c27",
+      "title": "AFCEA DC Monthly Luncheon",
+      "description": null,
+      "start": "2026-11-18T19:00:00-05:00",
+      "end": "2026-11-18T23:59:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": "Army Navy Country Club",
+        "address": "Army Navy Country Club, Arlington, VA",
+        "lat": 38.8549856,
+        "lng": -77.077367,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://dc.afceachapters.org/calendar",
+      "organizer": "AFCEA",
+      "categories": [
+        "security",
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://dc.afceachapters.org/calendar"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "44cacad8dac58e2f6711d21d6029f6ffb13b62b0105edc89f261c1ea578b1450",
+      "title": "NOVEMBER - VC in DC's Third Thursdays",
+      "description": null,
+      "start": "2026-11-19T17:00:00-05:00",
+      "end": "2026-11-19T23:59:00-05:00",
+      "allDay": false,
+      "venue": null,
+      "online": true,
+      "url": "https://luma.com/VCDC-TT-NOV26",
+      "organizer": "VC in DC",
+      "categories": [
+        "startups"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/VCDC-TT-NOV26"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "d74b88d8fca16fcf436f0e0125a166dec7e8a864e5b43b5b576ae61349659094",
+      "title": "AFCEA NOVA November Luncheon",
+      "description": null,
+      "start": "2026-11-19T19:00:00-05:00",
+      "end": "2026-11-19T23:59:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": "Carahsoft Technology",
+        "address": "Carahsoft Technology, Reston, VA",
+        "lat": 38.953282,
+        "lng": -77.3464516,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=81412",
+      "organizer": "AFCEA",
+      "categories": [
+        "security",
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=81412"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "ce2778f6290273116a0a99c1b494506dd89ff20cdc17a6bba173377cbe76392a",
+      "title": "Find a Cofounder / Help or Join a Tech Startup",
+      "description": null,
+      "start": "2026-11-26T20:00:00-05:00",
+      "end": "2026-11-26T23:59:00-05:00",
+      "allDay": false,
+      "venue": null,
+      "online": false,
+      "url": "https://www.meetup.com/dc-startup-cofounders/events/315812854/",
+      "organizer": "D.C. Startup Founders & Tech Professionals",
+      "categories": [
+        "startups"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/dc-startup-cofounders/events/315812854/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "3961491cbe0dc3a9a26034f415a846a08d54d2e4a908b2f1a374756e5ab82682",
+      "title": "Monthly Game Dev Meetup!",
+      "description": null,
+      "start": "2026-12-06T15:00:00-05:00",
+      "end": "2026-12-06T23:59:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": "Caboose Commons",
+        "address": "Caboose Commons, 2918 Eskridge Rd, Fairfax, VA, Fairfax, VA",
+        "lat": 38.872973,
+        "lng": -77.2319924,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/novagamedevs/events/wxxtxtyjcqbjb/",
+      "organizer": "NOVA Game Developers",
+      "categories": [
+        "data"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/novagamedevs/events/wxxtxtyjcqbjb/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "4d3eeaa026b89579645b06d321b639e2717dbbf0ae1fa7e76fe16d673b6362e0",
+      "title": "STATION DC Chess Club",
+      "description": "STATION DC\nWashington, District of Columbia\nUnited States",
+      "start": "2026-12-07T17:00:00-05:00",
+      "end": "2026-12-07T23:59:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": "STATION DC",
+        "address": "STATION DC, 1323 4th St NE Suite 200, Washington, DC 20002, USA",
+        "lat": 38.909549,
+        "lng": -76.9984619,
+        "precision": "exact"
+      },
+      "online": false,
+      "url": "https://luma.com/510ncd13",
+      "organizer": "STATION DC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/510ncd13"
+        },
+        {
+          "id": "station-dc",
+          "url": "https://luma.com/510ncd13"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "de5a7339b9c2bb36c7c2a6d69e98412d3466a867b882226a8ce5eb333fd86d5b",
+      "title": "AFCEA Hampton Roads Chapter December Luncheon",
+      "description": null,
+      "start": "2026-12-07T19:00:00-05:00",
+      "end": "2026-12-07T23:59:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": "Hilton The Main",
+        "address": "Hilton The Main, Norfolk, VA",
+        "lat": 38.803161,
+        "lng": -77.1264927,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://hamptonroads.afceachapters.org/node/237",
+      "organizer": "AFCEA",
+      "categories": [
+        "security",
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://hamptonroads.afceachapters.org/node/237"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "69b8373d316ebfd7164555f2b312f8cdc1c3736d13c79245da25ac1b79fa5134",
+      "title": "STATION DC Space Open Roundtable",
+      "description": "STATION DC\nWashington, District of Columbia\nUnited States",
+      "start": "2026-12-08T10:00:00-05:00",
+      "end": "2026-12-08T23:59:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": "STATION DC",
+        "address": "STATION DC, 1323 4th St NE Suite 200, Washington, DC 20002, USA",
+        "lat": 38.909549,
+        "lng": -76.9984619,
+        "precision": "exact"
+      },
+      "online": false,
+      "url": "https://luma.com/xdzlmokc",
+      "organizer": "STATION DC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/xdzlmokc"
+        },
+        {
+          "id": "station-dc",
+          "url": "https://luma.com/xdzlmokc"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "cdbf6a25007e5eba3df7ba8e426cb49f8eee88646991e08684b1bf872c0a8360",
+      "title": "Mappy Hour",
+      "description": null,
+      "start": "2026-12-08T18:00:00-05:00",
+      "end": "2026-12-08T23:59:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": "Capitol City Brewing Company",
+        "address": "Capitol City Brewing Company, 1100 New York Ave NW, Entrance is at 11th and H, Washington, DC, Washington, DC",
+        "lat": 38.8950982,
+        "lng": -77.0363849,
+        "precision": "city-centroid"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/mappingdc/events/qqvnvhyjcqblb/",
+      "organizer": "MappingDC",
+      "categories": [
+        "data"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/mappingdc/events/qqvnvhyjcqblb/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "7dae6c79cc26e6624c94b61d1a2fda96f1fd5c0e47dc513490b31bdbedac488b",
+      "title": "Emerging Leaders Monthly Social",
+      "description": null,
+      "start": "2026-12-08T19:00:00-05:00",
+      "end": "2026-12-08T23:59:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": "Columbia Ale House - 6480 Dobbin Center Way",
+        "address": "Columbia Ale House - 6480 Dobbin Center Way, Columbia, MD",
+        "lat": 39.1984693,
+        "lng": -76.8198927,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=81816",
+      "organizer": "AFCEA",
+      "categories": [
+        "security",
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=81816"
+        }
+      ],
+      "metro": "baltimore",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "87e7e0ff1d14ef74e186230d808ab4220f5cbc3fb9f900aef8593e0d59b5e316",
+      "title": "AFCEA DC 50th Annual Winter Gala",
+      "description": null,
+      "start": "2026-12-09T19:00:00-05:00",
+      "end": "2026-12-09T23:59:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": "National Building Museum",
+        "address": "National Building Museum, Washington, DC",
+        "lat": 38.8977549,
+        "lng": -77.0175512,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://afceadc.swoogo.com/wg26/",
+      "organizer": "AFCEA",
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://afceadc.swoogo.com/wg26/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "0c4edbc1c96f3e8e065c636bacbcefc0f525b6f2fa67eb4d6b7f6bbe19f9e4ef",
+      "title": "Open Conversations: February Edition",
+      "description": null,
+      "start": "2026-12-14T19:00:00-05:00",
+      "end": "2026-12-14T23:59:00-05:00",
+      "allDay": false,
+      "venue": null,
+      "online": false,
+      "url": "https://www.meetup.com/blacks-united-in-leading-technology-washington-d-c/events/hjhqvtyjcqbsb/",
+      "organizer": "Blacks United in Leading Technology Washington DC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/blacks-united-in-leading-technology-washington-d-c/events/hjhqvtyjcqbsb/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "f0284b2c95274abd7fbf9fd63f20bccfd1ed5ede97f427abb9bb5a24b1a034d6",
+      "title": "STATION DC Hypersonics Open Roundtable",
+      "description": "STATION DC\nWashington, District of Columbia\nUnited States",
+      "start": "2026-12-15T10:00:00-05:00",
+      "end": "2026-12-15T23:59:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": "STATION DC",
+        "address": "STATION DC, 1323 4th St NE Suite 200, Washington, DC 20002, USA",
+        "lat": 38.909549,
+        "lng": -76.9984619,
+        "precision": "exact"
+      },
+      "online": false,
+      "url": "https://luma.com/hm2gzlw9",
+      "organizer": "STATION DC",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/hm2gzlw9"
+        },
+        {
+          "id": "station-dc",
+          "url": "https://luma.com/hm2gzlw9"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "12dd57b0f281b7dc6d7e891020023170d9e6fb8aa44ce995768cc26b84b72552",
+      "title": "Tech100 Celebration",
+      "description": null,
+      "start": "2026-12-15T18:00:00-05:00",
+      "end": "2026-12-15T23:59:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": "Hilton McLean",
+        "address": "Hilton McLean, Tysons Corner, 7920 Jones Branch Dr., McLean, VA, 22102, United States",
+        "lat": 38.9265738,
+        "lng": -77.2159335,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://nvtc.glueup.com/event/tech100-celebration-186183/",
+      "organizer": "Northern Virginia Technology Council",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://nvtc.glueup.com/event/tech100-celebration-186183/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "d4fa11a77a462b101b13b33f3fa894c574f994a177651fa9d052e8e18ba7ccfd",
+      "title": "Nerd Talk",
+      "description": null,
+      "start": "2026-12-16T18:30:00-05:00",
+      "end": "2026-12-16T23:59:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": "Tysons Corner Center",
+        "address": "Tysons Corner Center, 1961 Chain Bridge Rd Ste 105, Mc Lean, VA, Mc Lean, VA",
+        "lat": 38.9167177,
+        "lng": -77.22258,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/nerd-dinner-tysons/events/tcsrxsyjcqbvb/",
+      "organizer": "Nerd Dinner Tysons",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/nerd-dinner-tysons/events/tcsrxsyjcqbvb/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "0f32b0e4839f4d361217416ffb253179519b8c455ed9eea5401a84369a4e21f0",
+      "title": "Golang Reston Monthly Meetup",
+      "description": null,
+      "start": "2026-12-16T19:00:00-05:00",
+      "end": "2026-12-16T23:59:00-05:00",
+      "allDay": false,
+      "venue": null,
+      "online": false,
+      "url": "https://www.meetup.com/golang-reston/events/cblrmsyjcqbvb/",
+      "organizer": "Golang Reston",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/golang-reston/events/cblrmsyjcqbvb/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "14569838bceb280741e50eb5e1ed66f1262aaf6080e2d7d0acee56f9e78746fc",
+      "title": "Air Forces IT Day",
+      "description": null,
+      "start": "2026-12-16T19:00:00-05:00",
+      "end": "2026-12-16T23:59:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": "Hilton McLean Tysons Corner",
+        "address": "Hilton McLean Tysons Corner, McLean, VA",
+        "lat": 38.9265738,
+        "lng": -77.2159335,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=81471",
+      "organizer": "AFCEA",
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=81471"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "1036be6defb8c690dba31dc56eb3e790010077c881d0618be8a9db16386ba5c7",
+      "title": "2026 AFCEA Belvoir Holiday Party",
+      "description": null,
+      "start": "2026-12-16T19:00:00-05:00",
+      "end": "2026-12-16T23:59:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": "Mt Vernon Inn and Restaurant",
+        "address": "Mt Vernon Inn and Restaurant, Mount Vernon, VA",
+        "lat": 38.710179,
+        "lng": -77.0888199,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.eventbrite.com/o/afcea-belvoir-registrar-39119028693",
+      "organizer": "AFCEA",
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.eventbrite.com/o/afcea-belvoir-registrar-39119028693"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "0dad2c3891de61d00825ece72fd620ee809d3277a8c2adc9b4b5c1e404b983f8",
+      "title": "DECEMBER - VC in DC's Third Thursdays",
+      "description": null,
+      "start": "2026-12-17T17:00:00-05:00",
+      "end": "2026-12-17T23:59:00-05:00",
+      "allDay": false,
+      "venue": null,
+      "online": true,
+      "url": "https://luma.com/VCDC-TT-DEC26",
+      "organizer": "VC in DC",
+      "categories": [
+        "startups"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://luma.com/VCDC-TT-DEC26"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "a576ffcab47070d4e813b55d50b3e86afed659be7c1b93e2a801748087ecea4d",
+      "title": "Find a Cofounder / Help or Join a Tech Startup",
+      "description": null,
+      "start": "2026-12-24T20:00:00-05:00",
+      "end": "2026-12-24T23:59:00-05:00",
+      "allDay": false,
+      "venue": null,
+      "online": false,
+      "url": "https://www.meetup.com/dc-startup-cofounders/events/rgcrztyjcqbgc/",
+      "organizer": "D.C. Startup Founders & Tech Professionals",
+      "categories": [
+        "startups"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/dc-startup-cofounders/events/rgcrztyjcqbgc/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "27952ce3177f56f5c4df9ba0c8eda98a9823716d379c923501f4c882615de367",
+      "title": "Super MAGFest 2027",
+      "description": null,
+      "start": "2027-01-07T00:00:00-05:00",
+      "end": null,
+      "allDay": true,
+      "venue": {
+        "name": "Gaylord National",
+        "address": "Gaylord National, National Harbor, MD",
+        "lat": 38.7809181,
+        "lng": -77.0177582,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://super.magfest.org/",
+      "organizer": null,
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://super.magfest.org/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "4f931388055dea83c7fc373e63be6bb2edcb8edf04d8e6166247f2def4113773",
+      "title": "Emerging Leaders Monthly Social",
+      "description": null,
+      "start": "2027-01-12T19:00:00-05:00",
+      "end": "2027-01-12T23:59:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": "Columbia Ale House - 6480 Dobbin Center Way",
+        "address": "Columbia Ale House - 6480 Dobbin Center Way, Columbia, MD",
+        "lat": 39.1984693,
+        "lng": -76.8198927,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=81817",
+      "organizer": "AFCEA",
+      "categories": [
+        "security",
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=81817"
+        }
+      ],
+      "metro": "baltimore",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "1a71ccd49600fd9771e874ff8c90eba28d26784a34eb8308f155b4b1bb6cb5f8",
+      "title": "Army IT Day",
+      "description": null,
+      "start": "2027-01-13T19:00:00-05:00",
+      "end": "2027-01-13T23:59:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": "Hilton McLean Tysons Corner",
+        "address": "Hilton McLean Tysons Corner, McLean, VA",
+        "lat": 38.9265738,
+        "lng": -77.2159335,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=81472",
+      "organizer": "AFCEA",
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=81472"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "686f5463c8c9a21721b2772a98ce5789f8493eb0ef78125adcb89e6b50425454",
+      "title": "AFCEA NOVA Small Business Breakfast",
+      "description": null,
+      "start": "2027-01-18T19:00:00-05:00",
+      "end": "2027-01-18T23:59:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": "Carahsoft Technology",
+        "address": "Carahsoft Technology, Reston, VA",
+        "lat": 38.953282,
+        "lng": -77.3464516,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=81213",
+      "organizer": "AFCEA",
+      "categories": [
+        "security"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.afcea.org/calendar/eventdet.jsp?event_id=81213"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "374ee6dac80421e818855394a9d557ccd2ef1d6062a5b5daeeb4aa1092ddb756",
+      "title": "AFCEA Belvoir January 2027 Luncheon",
+      "description": null,
+      "start": "2027-01-19T19:00:00-05:00",
+      "end": "2027-01-19T23:59:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": "Embassy Suites by Hilton Springfield",
+        "address": "Embassy Suites by Hilton Springfield, Springfield, VA",
+        "lat": 38.7391241,
+        "lng": -77.1888073,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.eventbrite.com/o/afcea-belvoir-registrar-39119028693",
+      "organizer": "AFCEA",
+      "categories": [
+        "security",
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.eventbrite.com/o/afcea-belvoir-registrar-39119028693"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "ddc6f175c9706064ae67d45a12e9c8893377f949f9d53ca11bd4d030ff408f92",
+      "title": "Nerd Talk",
+      "description": null,
+      "start": "2027-01-20T18:30:00-05:00",
+      "end": "2027-01-20T23:59:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": "Tysons Corner Center",
+        "address": "Tysons Corner Center, 1961 Chain Bridge Rd Ste 105, Mc Lean, VA, Mc Lean, VA",
+        "lat": 38.9167177,
+        "lng": -77.22258,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://www.meetup.com/nerd-dinner-tysons/events/tcsrxsykccbbc/",
+      "organizer": "Nerd Dinner Tysons",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/nerd-dinner-tysons/events/tcsrxsykccbbc/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "a7dd5be570b9815dc0e4749a2d1db7530713233ca6fd1cd51828e2a47af5c9ea",
+      "title": "Golang Reston Monthly Meetup",
+      "description": null,
+      "start": "2027-01-20T19:00:00-05:00",
+      "end": "2027-01-20T23:59:00-05:00",
+      "allDay": false,
+      "venue": null,
+      "online": false,
+      "url": "https://www.meetup.com/golang-reston/events/cblrmsykccbbc/",
+      "organizer": "Golang Reston",
+      "categories": [
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/golang-reston/events/cblrmsykccbbc/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "edd47e8221968c6dd4937702ccd7512d17d871a9faf7a359597cfed0b7a2e89b",
+      "title": "AFCEA DC Monthly Luncheon",
+      "description": null,
+      "start": "2027-01-20T19:00:00-05:00",
+      "end": "2027-01-20T23:59:00-05:00",
+      "allDay": false,
+      "venue": {
+        "name": "Army Navy Country Club",
+        "address": "Army Navy Country Club, Arlington, VA",
+        "lat": 38.8549856,
+        "lng": -77.077367,
+        "precision": "geocoded"
+      },
+      "online": false,
+      "url": "https://dc.afceachapters.org/calendar",
+      "organizer": "AFCEA",
+      "categories": [
+        "security",
+        "community"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://dc.afceachapters.org/calendar"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    },
+    {
+      "id": "6a9b8efe7deb283ba1253656244f3ec5092af3ff4d6b0a79db4c280700779982",
+      "title": "Find a Cofounder / Help or Join a Tech Startup",
+      "description": null,
+      "start": "2027-01-28T20:00:00-05:00",
+      "end": "2027-01-28T23:59:00-05:00",
+      "allDay": false,
+      "venue": null,
+      "online": false,
+      "url": "https://www.meetup.com/dc-startup-cofounders/events/rgcrztykccblc/",
+      "organizer": "D.C. Startup Founders & Tech Professionals",
+      "categories": [
+        "startups"
+      ],
+      "sources": [
+        {
+          "id": "dctech-events",
+          "url": "https://www.meetup.com/dc-startup-cofounders/events/rgcrztykccblc/"
+        }
+      ],
+      "metro": "dc",
+      "lastSeen": "2026-08-08T16:30:50.744Z"
+    }
+  ],
+  "sourceStatus": [
+    {
+      "id": "dctech-events",
+      "ok": true,
+      "eventCount": 211,
+      "error": null
+    },
+    {
+      "id": "baltimore-tech-luma",
+      "ok": true,
+      "eventCount": 2,
+      "error": null
+    },
+    {
+      "id": "baltimore-tech-meetup",
+      "ok": true,
+      "eventCount": 1,
+      "error": null
+    },
+    {
+      "id": "station-dc",
+      "ok": true,
+      "eventCount": 26,
+      "error": null
+    },
+    {
+      "id": "dc-data-ai",
+      "ok": true,
+      "eventCount": 2,
+      "error": null
+    }
+  ]
+}
