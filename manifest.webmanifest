@@ -1,0 +1,19 @@
+{
+  "name": "Signal — DMV Tech Events",
+  "short_name": "Signal",
+  "description": "A live map of technology, design, and AI events across Washington DC, Northern Virginia, and Baltimore.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F5F2EC",
+  "theme_color": "#F5F2EC",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
